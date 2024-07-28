@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh kumar</h1>
-<h3 align="center">Full stack  Developer with a demonstrate history of working in the information technology and services industry. skilled in Web Design HTML / CSS / JAVASCRIPT / BOOTSTRAP/ Photoshop/C /C++/ JAVA / DSA / React js Bachelor in computer application BCA , from Amity University Patna I am a computer science student of 2nd year . i love to keep growing as the technology World grows , i feel there is no powerful tool than a computer to change the world in any way. I like to explore new things in this journey.</h3>
+<h3 align="center">Full stack  Developer with a demonstrate history of working in the information technology and services industry. skilled in Web Design HTML / CSS / JAVASCRIPT / BOOTSTRAP/ Photoshop/C /C++/ JAVA / DSA / React js Bachelor in computer application BCA , from Amity University Patna I am a computer science student of 3rd year . i love to keep growing as the technology World grows , i feel there is no powerful tool than a computer to change the world in any way. I like to explore new things in this journey.</h3>
 
 - 🌱 I’m currently learning **nodejs express_js mongodb**
 
