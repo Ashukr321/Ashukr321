@@ -109,7 +109,17 @@ Apart from my professional life, I love to keep learning and applying new techno
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google analytics logo" />
   <img width="12" />
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="material ui logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/recharts/recharts-original.svg" height="40" alt="recharts logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shadcn/shadcn-original.svg" height="40" alt="shadcn logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/restapi/restapi-original.svg" height="40" alt="restapi logo" />
 </p>
 
 <br />
@@ -140,5 +150,6 @@ Apart from my professional life, I love to keep learning and applying new techno
   ● ● ●
   <br />
   <br />
+  <img src="https://raw.githubusercontent.com/ashukr321/ashukr321/output/snake.svg" alt="Snake animation" />
 </div>
 
