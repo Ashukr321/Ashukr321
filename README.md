@@ -56,8 +56,6 @@ Apart from my professional life, I love to keep learning and applying new techno
 
 **- 👨‍ 🎓 A Computer Science Student** \
 **- 🌱 Currently learning Node.js, Express.js, MongoDB** \
-**- 💬 Ask me about React** \
-**- ⚡ Fun fact: I think I am funny** \
 **- 🏆 Hackathon Achievement: 2nd Runner-Up at Hackit AUP 2025** \
 **- 🏆 Winner at Google Developer Group Patna** \
 **- 🌐 Portfolio: [devashu.tech](https://devashu.tech)**
@@ -80,9 +78,13 @@ Apart from my professional life, I love to keep learning and applying new techno
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aassembly"><img alt="MIPS Assembly" src="https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
+ 
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash">
+      <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white">
+    </a>
+   
+     
+    
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aceylon"><img alt="Ceylon" src="https://img.shields.io/badge/Ceylon%20-%23E39842.svg?logo=gradle&logoColor=white"></a>
