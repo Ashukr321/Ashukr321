@@ -4,6 +4,12 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashukr321&label=Profile%20views&color=0e75b6&style=flat" alt="ashukr321" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashukr321" alt="ashukr321" /></a> </p>
+
+###
+
 <div align="center">
   <a href="https://linkedin.com/in/ashutosh-kumar-7ba1a6211/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -60,7 +66,7 @@ Apart from my professional life, I love to keep learning and applying new techno
 
 <div align="center">
   ● ● ●
-  < br />
+  <br />
   <br />
 </div>
 
@@ -124,5 +130,5 @@ Apart from my professional life, I love to keep learning and applying new techno
   <br />
 </div>
 
-###
+
 
