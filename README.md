@@ -94,9 +94,8 @@ Apart from my professional life, I love to keep learning and applying new techno
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React" src="[https://img.shields.io](https://img.shields.io)/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    [<a href="#"><img alt="React" src="[https://img.shields.io](https://img.shields.io)/badge/Tailwindcss%20-%2320232a.svg?logo=tailwindcss&logoColor=%2361DAFB"></a>
-  
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+    <a href="#"><img alt="Recharts" src="https://img.shields.io/badge/Recharts%20-%23F15A29.svg?logo=react&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
