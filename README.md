@@ -115,12 +115,8 @@ Apart from my professional life, I love to keep learning and applying new techno
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="material ui logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/recharts/recharts-original.svg" height="40" alt="recharts logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shadcn/shadcn-original.svg" height="40" alt="shadcn logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/restapi/restapi-original.svg" height="40" alt="restapi logo" />
-</p>
+ 
+ 
 
 <br />
 <br />
@@ -140,12 +136,14 @@ Apart from my professional life, I love to keep learning and applying new techno
 <div align="center">
   <style>
     .stat-image {
-      transition: transform 0.3s ease;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
       margin: 10px;
+      border-radius: 8px; /* Optional: adds rounded corners */
     }
 
     .stat-image:hover {
       transform: scale(1.05);
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
     }
   </style>
 
