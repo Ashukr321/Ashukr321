@@ -53,7 +53,7 @@ Apart from my professional life, I love to keep learning and applying new techno
 <br />
 <br />
 
-**- 👨‍🎓 A Computer Science Student** \
+**- 👨‍ 🎓 A Computer Science Student** \
 **- 🌱 Currently learning Node.js, Express.js, MongoDB** \
 **- 💬 Ask me about React** \
 **- ⚡ Fun fact: I think I am funny** \
@@ -129,6 +129,4 @@ Apart from my professional life, I love to keep learning and applying new techno
   <br />
   <br />
 </div>
-
-
 
