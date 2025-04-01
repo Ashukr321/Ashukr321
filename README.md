@@ -138,9 +138,20 @@ Apart from my professional life, I love to keep learning and applying new techno
 ###
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ashukr321&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashukr321&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashukr321&theme=tokyonight" height="220" alt="streak graph" />
+  <style>
+    .stat-image {
+      transition: transform 0.3s ease;
+      margin: 10px;
+    }
+
+    .stat-image:hover {
+      transform: scale(1.05);
+    }
+  </style>
+
+  <img class="stat-image" height="137px" src="https://github-readme-stats.vercel.app/api?username=ashukr321&show_icons=true&theme=tokyonight" />
+  <img class="stat-image" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashukr321&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+  <img class="stat-image" src="https://github-readme-streak-stats.herokuapp.com/?user=ashukr321&theme=tokyonight" height="220" alt="streak graph" />
 </div>
 
 <br />
@@ -150,6 +161,6 @@ Apart from my professional life, I love to keep learning and applying new techno
   ● ● ●
   <br />
   <br />
-  <img src="https://raw.githubusercontent.com/ashukr321/ashukr321/output/snake.svg" alt="Snake animation" />
+  
 </div>
 
