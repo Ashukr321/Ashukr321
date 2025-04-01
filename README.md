@@ -126,37 +126,3 @@ Apart from my professional life, I love to keep learning and applying new techno
 
 ###
 
-## 📝 My Recent Medium Articles:
-
-###
-
-<div align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coderashukr321/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coderashukr321/0" alt="Recent Article 0"> </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coderashukr321/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coderashukr321/1" alt="Recent Article 1"> </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coderashukr321/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coderashukr321/2" alt="Recent Article 2"></a>
-</div>
-
-<br />
-<br />
-<br />
-<br />
-
-<div align="center">
-  ● ● ●
-  <br />
-  <br />
-</div>
-
-### 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br />
-<br />
-
-● ● ●
-
-<br />
-<br />
-
-<img src="https://raw.githubusercontent.com/ashukr321/ashukr321/output/snake.svg" alt="Snake animation" />
