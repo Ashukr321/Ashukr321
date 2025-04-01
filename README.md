@@ -95,7 +95,7 @@ Apart from my professional life, I love to keep learning and applying new techno
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="React" src="[https://img.shields.io](https://img.shields.io)/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React" src="[https://img.shields.io](https://img.shields.io)/badge/TailwindCss%20-%2320232a.svg?logo=tailwindcss&logoColor=%2361DAFB"></a>
+    [<a href="#"><img alt="React" src="[https://img.shields.io](https://img.shields.io)/badge/Tailwindcss%20-%2320232a.svg?logo=tailwindcss&logoColor=%2361DAFB"></a>
   
 </p>
 
