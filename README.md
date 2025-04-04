@@ -9,7 +9,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashukr321" alt="ashukr321" /></a> </p>
 
 ###
-
+![](https://github-readme-stats.vercel.app/api?username=anshumansinha3301&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumansinha3301&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=anshumansinha3301&theme=blue-green&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshumansinha3301&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshumansinha3301&theme=blue_green)
+![](https://github-profile-trophy.vercel.app/?username=anshumansinha3301&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center">
   <a href="https://linkedin.com/in/ashutosh-kumar-7ba1a6211/" target="_blank">
