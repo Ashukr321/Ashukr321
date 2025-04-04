@@ -11,11 +11,6 @@
 ###
 
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashukr&theme=blue321_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashukr321&theme=blue_green)
-![](https://github-profile-trophy.vercel.app/?username=ashukr321&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
 <div align="center">
   <a href="https://linkedin.com/in/ashutosh-kumar-7ba1a6211/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
