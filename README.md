@@ -33,7 +33,6 @@
 </div>
 
 ###
-
 <div align="center">
   <img src="https://custom-icon-badges.herokuapp.com/github/followers/ashukr321?logo=github&style=social">
   <img src="https://custom-icon-badges.herokuapp.com/github/stars/ashukr321?logo=star&style=social&logoColor=black">
@@ -55,7 +54,7 @@ Apart from my professional life, I love to keep learning and applying new techno
 <br />
 
 **- 👨‍ 🎓 A Computer Science Student** \
-**- 🌱 Currently learning Node.js, Express.js, MongoDB** \
+**- 🌱 Currently learning Node.js, Express.js, MongoDB Firebase Clerk Authentication ** \
 **- 🏆 Hackathon Achievement: 2nd Runner-Up at Hackit AUP 2025** \
 **- 🏆 Winner at Google Developer Group Patna** \
 **- 🌐 Portfolio: [devashu.tech](https://devashu.tech)**
