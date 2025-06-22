@@ -139,10 +139,7 @@ Apart from my professional life, I love to keep learning and applying new techno
       border-radius: 8px; /* Optional: adds rounded corners */
     }
 
-    .stat-image:hover {
-      transform: scale(1.05);
-      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
-    }
+    
   </style>
 
   <img class="stat-image" height="137px" src="https://github-readme-stats.vercel.app/api?username=ashukr321&show_icons=true&theme=tokyonight" />
