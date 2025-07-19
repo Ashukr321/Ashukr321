@@ -174,31 +174,8 @@ Hello there! 👋 I'm **Ashutosh Kumar**, a passionate **Full Stack Developer** 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashukr321&theme=tokyonight" height="200" alt="GitHub Streak" />
-  
-  <br />
-  
-  <span style="font-weight: bold; font-size: 16px;">
-    <span style="color: #FF5733;">M</span>
-    <span style="color: #FFC300;">o</span>
-    <span style="color: #DAF7A6;">s</span>
-    <span style="color: #33FFBD;">t</span>
-    <span> </span>
-    <span style="color: #33FFF3;">U</span>
-    <span style="color: #3380FF;">s</span>
-    <span style="color: #8E33FF;">e</span>
-    <span style="color: #DA33FF;">d</span>
-    <span> </span>
-    <span style="color: #FF33C4;">L</span>
-    <span style="color: #FF3380;">a</span>
-    <span style="color: #FF5733;">n</span>
-    <span style="color: #FF8C33;">g</span>
-    <span style="color: #FFD133;">u</span>
-    <span style="color: #D1FF33;">a</span>
-    <span style="color: #7EFF33;">g</span>
-    <span style="color: #33FF57;">e</span>
-    <span style="color: #33FFBD;">s</span>
-  </span>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukr321&layout=compact&theme=radical" height="200" alt="Top Languages" />
+</div>
   <br />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukr321&layout=compact&theme=radical" height="200" alt="Top Languages" />
