@@ -66,16 +66,7 @@ Hello there! 👋 I'm **Ashutosh Kumar**, a passionate **Full Stack Developer** 
 **- 🌐 Portfolio: [devashu.tech](https://devashu.tech)**  
 
 
-## 🔥 My Stats:
-<img class="stat-image" src="https://github-readme-streak-stats.herokuapp.com/?user=ashukr321&theme=tokyonight" height="220" alt="streak graph" />
 
-<br />
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/ashukr321/ashukr321/blob/output/github-contribution-grid-snake.svg)
-
-<br />
 
 <div align="center">
   ● ● ●
