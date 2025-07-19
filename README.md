@@ -68,8 +68,26 @@ Apart from my professional life, I love to keep learning and applying new techno
   <br />
 </div>
 
-###
 
+### 💼 Work Experience
+
+- **👨‍💻 Full Stack (MERN) Developer Intern — [Ticketbuddy.ai](https://ticketbuddy.ai)**  
+  *Jul 2024 – Sep 2024 | Manchester, United Kingdom*  
+  - Designed and developed all layers (front-end and back-end) for an automated mailing service.  
+  - Built REST APIs, fixed UI bugs, and integrated Formik for forms.  
+  - **Stack:** React.js, Node.js, Tailwind CSS, TypeScript, HTML/CSS/JS
+
+- **👨‍💻 Full Stack (MERN) Developer Intern — Kavach Innovations**  
+  *May 2024 – Jul 2024 | Patna, Bihar, India*  
+  - Built responsive dashboards and collaborated on a startup project to enhance web performance.  
+  - **Stack:** React.js, Next.js, Node.js, TypeScript, Material UI
+
+- **🎨 Frontend Developer — Codesoar.io**  
+  *May 2025 – Jun 2025 | Remote*  
+  - Developed a scalable Tutor Management System and crafted intuitive UI with Context API.  
+  - **Stack:** Next.js, Tailwind CSS, JavaScript
+
+---
 ## ⚙🛠 Language and Tools:
 
 ###
