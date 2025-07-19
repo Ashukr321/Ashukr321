@@ -64,7 +64,11 @@ Hello there! 👋 I'm **Ashutosh Kumar**, a passionate **Full Stack Developer** 
 **- 🌱 Currently exploring backend architecture, system design, and advanced MERN stack**  
 **- 🏆 Hackathon Wins: Winner @ GDG Patna, 2nd Runner-Up @ HackIt AUP 2025**  
 **- 🌐 Portfolio: [devashu.tech](https://devashu.tech)**  
-
+<p align="center">
+  <a href="https://drive.google.com/file/d/1CHewgPF9Ao66AUnyahMlzfhKPBHpBTi6/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Ashutosh%20Kumar-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume Badge" />
+  </a>
+</p>
 
 
 
