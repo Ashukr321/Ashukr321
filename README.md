@@ -68,7 +68,7 @@ Hello there! 👋 I'm **Ashutosh Kumar**, a passionate **Full Stack Developer** 
 
 <br />
 <br />
-
+![snake gif](https://github.com/ashukr321/ashukr321/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
   ● ● ●
   <br />
