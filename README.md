@@ -46,18 +46,25 @@
 
 ### 👨‍💻 A brief intro about me... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
-Hello there! 👋 I'm Ashutosh Kumar, a **Full Stack Developer** with a demonstrated history of working in the information technology and services industry. I am skilled in Web Design, HTML, CSS, JavaScript, Bootstrap, Photoshop, C, C++, Java, DSA, and React.js. I hold a Bachelor's degree in Computer Applications (BCA) from Amity University Patna and am currently a 3rd-year computer science student. I love to keep growing as the technology world evolves, and I believe there is no more powerful tool than a computer to change the world in any way. I enjoy exploring new things on this journey.
+Hello there! 👋 I'm **Ashutosh Kumar**, a passionate **Full Stack Developer** with real-world experience building robust and scalable web applications using the **MERN stack**.
 
-Apart from my professional life, I love to keep learning and applying new technologies to solve complex problems.
+🎓 I recently completed my **Bachelor of Computer Applications (BCA)** from **Amity University Patna** in **June 2025** with a CGPA of 8.75.
+
+💻 I specialize in **React**, **Node.js**, **Express**, and **MongoDB**, and I love turning ideas into reality through code. My focus is on writing clean, maintainable, and performance-optimized code.
+
+🚀 I thrive in collaborative environments and enjoy solving complex problems with simple, elegant solutions.
+
+🌱 Currently exploring system design, backend architecture, and building full-stack SaaS products.
+
+📫 Let's connect and collaborate on exciting tech projects!
 
 <br />
-<br />
 
-**- 👨‍ 🎓 A Computer Science Student** \
-**- 🌱 Currently learning Node.js, Express.js, MongoDB Firebase Clerk Authentication ** \
-**- 🏆 Hackathon Achievement: 2nd Runner-Up at Hackit AUP 2025** \
-**- 🏆 Winner at Google Developer Group Patna** \
-**- 🌐 Portfolio: [devashu.tech](https://devashu.tech)**
+**- 👨‍🎓 BCA Graduate (2022–2025)**  
+**- 🌱 Currently exploring backend architecture, system design, and advanced MERN stack**  
+**- 🏆 Hackathon Wins: Winner @ GDG Patna, 2nd Runner-Up @ HackIt AUP 2025**  
+**- 🌐 Portfolio: [devashu.tech](https://devashu.tech)**  
+
 
 <br />
 <br />
