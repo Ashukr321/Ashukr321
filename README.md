@@ -172,7 +172,7 @@ Hello there! 👋 I'm **Ashutosh Kumar**, a passionate **Full Stack Developer** 
 
 ## 🔥 My Stats:
   <img class="stat-image" src="https://github-readme-streak-stats.herokuapp.com/?user=ashukr321&theme=tokyonight" height="220" alt="streak graph" />
-
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamkumarsinha18&layout=compact&theme=radical)
 <br />
 <br />
 
