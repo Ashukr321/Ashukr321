@@ -71,23 +71,41 @@ Apart from my professional life, I love to keep learning and applying new techno
 
 ### 💼 Work Experience
 
-- **👨‍💻 Full Stack (MERN) Developer Intern — [Ticketbuddy.ai](https://ticketbuddy.ai)**  
-  *Jul 2024 – Sep 2024 | Manchester, United Kingdom*  
-  - Designed and developed all layers (front-end and back-end) for an automated mailing service.  
-  - Built REST APIs, fixed UI bugs, and integrated Formik for forms.  
-  - **Stack:** React.js, Node.js, Tailwind CSS, TypeScript, HTML/CSS/JS
-
-- **👨‍💻 Full Stack (MERN) Developer Intern — Kavach Innovations**  
-  *May 2024 – Jul 2024 | Patna, Bihar, India*  
-  - Built responsive dashboards and collaborated on a startup project to enhance web performance.  
-  - **Stack:** React.js, Next.js, Node.js, TypeScript, Material UI
-
-- **🎨 Frontend Developer — Codesoar.io**  
-  *May 2025 – Jun 2025 | Remote*  
-  - Developed a scalable Tutor Management System and crafted intuitive UI with Context API.  
-  - **Stack:** Next.js, Tailwind CSS, JavaScript
+- **🎨 Frontend Developer — [Codesoar.io](https://codesoar.io)**  
+  *🗓️ May 2025 – Jun 2025 | 🌐 Remote*  
+  - 🧑‍🏫 Built a scalable Tutor Management System for personalized home tuition services.  
+  - 🎯 Designed dynamic UI components and smooth user interactions for enhanced UX.  
+  - 🔧 **Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) 
+    ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) 
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+    ![Context API](https://img.shields.io/badge/React_Context_API-61DAFB?logo=react&logoColor=white)
 
 ---
+
+- **👨‍💻 Full Stack (MERN) Developer Intern — [Ticketbuddy.ai](https://ticketbuddy.ai)**  
+  *🗓️ Jul 2024 – Sep 2024 | 🏢 Manchester, United Kingdom*  
+  - 📬 Designed and developed all layers (frontend + backend) for an AI mailing service.  
+  - 🛠️ Built REST APIs, resolved UI issues, and integrated **Formik** for forms.  
+  - 🔧 **Stack:** ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black) 
+    ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
+    ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) 
+    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) 
+    ![Formik](https://img.shields.io/badge/Formik-EC5990?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjx0ZXh0IHg9JzAnIHk9JzE1JyBmb250LXNpemU9JzE1Jz5GPC90ZXh0Pjwvc3ZnPg==)
+
+---
+
+- **👨‍💻 Full Stack (MERN) Developer Intern — Kavach Innovations**  
+  *🗓️ May 2024 – Jul 2024 | 📍 Patna, Bihar, India*  
+  - 🧪 Worked on a full-stack web app startup project and crafted responsive dashboards.  
+  - 🤝 Collaborated on feature development and performance improvements.  
+  - 🔧 **Stack:** ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black) 
+    ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) 
+    ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
+    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) 
+    ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white)
+
+---
+
 ## ⚙🛠 Language and Tools:
 
 ###
