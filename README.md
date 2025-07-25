@@ -182,16 +182,19 @@ Hello there! 👋 I'm **Ashutosh Kumar**, a passionate **Full Stack Developer** 
 ###
 
 ## 🔥 My Stats:
-### 🐍 GitHub Contribution Snake
 
-![GitHub Snake Light](./dist/github-snake.svg)
-![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashukr321&theme=tokyonight" height="200" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukr321&layout=compact&theme=radical" height="200" alt="Top Languages" />
 </div>
 
+
+
+### 🐍 GitHub Contribution Snake
+
+![GitHub Snake Light](./dist/github-snake.svg)
+![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
 
 <br />
 <br />
