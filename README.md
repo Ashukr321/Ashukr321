@@ -182,7 +182,7 @@ Hello there! 👋 I'm **Ashutosh Kumar**, a passionate **Full Stack Developer** 
 ###
 
 ## 🔥 My Stats:
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashukr321&theme=react-dark)](https://github.com/ashukr321/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashukr321&theme=tokyonight" height="200" alt="GitHub Streak" />
@@ -190,8 +190,6 @@ Hello there! 👋 I'm **Ashutosh Kumar**, a passionate **Full Stack Developer** 
 </div>
 
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashukr321&theme=dracula)](https://github.com/ashukr321/github-readme-activity-graph)
 
 <br />
 <br />
