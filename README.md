@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashukr321&label=Profile%20views&color=0e75b6&style=flat" alt="ashukr321" /> </p>
 
-[![committers.top badge](https://user-badge.committers.top/india_private/vinayakkulkarni.svg)](https://user-badge.committers.top/india_private/vinayakkulkarni)[![trophy](https://github-profile-trophy.vercel.app/?username=ashukr321)](https://github.com/ryo-ma/github-profile-trophy)
+[![committers.top badge](https://user-badge.committers.top/india_private/ashukr321.svg)](https://user-badge.committers.top/india_private/ashukr321)[![trophy](https://github-profile-trophy.vercel.app/?username=ashukr321)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashukr321" alt="ashukr321" /></a> </p>
 
