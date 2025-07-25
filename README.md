@@ -191,10 +191,7 @@ Hello there! 👋 I'm **Ashutosh Kumar**, a passionate **Full Stack Developer** 
 
 
 
-### 🐍 GitHub Contribution Snake
-
-![GitHub Snake Light](./dist/github-snake.svg)
-![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashukr321&theme=dracula)](https://github.com/ashukr321/github-readme-activity-graph)
 
 <br />
 <br />
