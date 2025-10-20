@@ -31,10 +31,13 @@
 
 ###
 <div align="center">
-[![Github](https://img.shields.io/github/followers/ashukr321?label=Follow&style=social)](https://github.com/ashukr321)
-  <img src="https://custom-icon-badges.herokuapp.com/github/stars/ashukr321?logo=star&style=social&logoColor=black">
-  <img src="https://komarev.com/ghpvc/?username=ashukr321">
+
+[![Github Followers](https://img.shields.io/github/followers/ashukr321?label=Follow&style=social)](https://github.com/ashukr321)
+![GitHub Stars](https://img.shields.io/github/stars/ashukr321?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=ashukr321&label=Profile%20views&color=0e75b6&style=flat)
+
 </div>
+
 
 <br />
 <br />
