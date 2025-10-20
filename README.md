@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashukr321" alt="ashukr321" /></a> </p>
 
 ###
-[![Github](https://img.shields.io/github/followers/ashukr321?label=Follow&style=social)](https://github.com/ashukr321)
+
 
 <div align="center">
   <a href="https://linkedin.com/in/ashutosh-kumar-7ba1a6211/" target="_blank">
@@ -31,7 +31,7 @@
 
 ###
 <div align="center">
-  <img src="https://custom-icon-badges.herokuapp.com/github/followers/ashukr321?logo=github&style=social">
+[![Github](https://img.shields.io/github/followers/ashukr321?label=Follow&style=social)](https://github.com/ashukr321)
   <img src="https://custom-icon-badges.herokuapp.com/github/stars/ashukr321?logo=star&style=social&logoColor=black">
   <img src="https://komarev.com/ghpvc/?username=ashukr321">
 </div>
