@@ -1,8 +1,5 @@
 <div align="center">
   <img height="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" />
-  <p align='center'>
-  <a href="#"><img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="241"></a>
-</p>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashukr321&label=Profile%20views&color=0e75b6&style=flat" alt="ashukr321" /> </p>
