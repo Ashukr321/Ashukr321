@@ -41,42 +41,39 @@
 <br />
 <br />
 
-###
 
-### 👨‍💻 A brief intro about me... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
+### 👨‍💻 A brief intro about me... <ttps://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 
-Hello there! 👋 I'm **Ashutosh Kumar**, a passionate **Full Stack Developer** with real-world experience building robust and scalable web applications using the **MERN stack**.
+Hello there! 👋 I'm **Ashutosh Kumar**, currently working as **Software Development Engineer I (SDE I) at CodeBucket**, passionate about building scalable and user-centric web applications using **React**, **Next.js**, and the **MERN stack**.
 
-🎓 I recently completed my **Bachelor of Computer Applications (BCA)** from **Amity University Patna** in **June 2025** with a CGPA of 8.75.
+🎓 Completed **Bachelor of Computer Applications (BCA)** from **Amity University Patna** in **June 2025** (CGPA: 8.75) and pursuing **Master of Computer Applications (MCA)** from **Amity University Online** (Expected 2027).
 
-💻 I specialize in **React**, **Node.js**, **Express**, and **MongoDB**, and I love turning ideas into reality through code. My focus is on writing clean, maintainable, and performance-optimized code.
+💻 I specialize in **React**, **Node.js**, **Express**, and **MongoDB**, focusing on writing clean, maintainable, and performance-optimized code.
 
-🚀 I thrive in collaborative environments and enjoy solving complex problems with simple, elegant solutions.
+🚀 Thrive in collaborative environments and enjoy solving complex problems with simple, elegant solutions.
 
-🌱 Currently exploring system design, backend architecture, and building full-stack SaaS products.
+🌱 Currently exploring **system design**, **backend architecture**, and building **full-stack SaaS products**.
 
 📫 Let's connect and collaborate on exciting tech projects!
 
 <br />
 
-**- 👨‍🎓 BCA Graduate (2022–2025)**  
-**- 🌱 Currently exploring backend architecture, system design, and advanced MERN stack**  
+**- 👨‍🎓 MCA (Pursuing) | BCA Graduate (2022–2025)**  
+**- 🌱 Exploring advanced MERN stack, system design, and scalable architecture**  
 **- 🏆 Hackathon Wins: Winner @ GDG Patna, 2nd Runner-Up @ HackIt AUP 2025**  
-**- 🌐 Portfolio: [devashu.tech](https://devashu.tech)**  
+**- 🌐 Portfolio: devashu.tech**  
+
 <p align="left">
-  <a href="https://drive.google.com/file/d/1CHewgPF9Ao66AUnyahMlzfhKPBHpBTi6/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobe-acrobat-reader&label=Ashutosh%20Kumar&color=red&logoColor=white&labelColor=red&style=for-the-badge" alt="Resume Badge" />
+  <a href="https://drive.google.com/file/d/1CHewgPF9Ao66AUnyahMlzfhKPBHpBTi6/view?usp=sharing" target="_blankio/static/v1?message=Resume&logo=adobe-acrobat-reader&label=Ashutosh%20Kumar&color=red&logoColor=white&labelColor=red&style=for-the-badge
   </a>
 </p>
-
-
-
 
 <div align="center">
   ● ● ●
   <br />
   <br />
 </div>
+
 
 
 
