@@ -79,6 +79,23 @@ Hello there! 👋 I'm **Ashutosh Kumar**, currently working as **Software Develo
 
 ### 💼 Work Experience
 
+ **🧠 Software Development Engineer I (SDE I) — CodeBucket**  
+  *🗓️ Nov 2025 – Present | 📍 Patna, Bihar, India*  
+  - 🏢 Leading development of a centralized **HRMS portal for BSRTC**, replacing manual systems and unifying HR functions into a single ecosystem.  
+  - ⚙️ Built reusable React components, implemented **advanced search & filters**, and optimized **state management** for dynamic modules (ESS, Attendance, Payroll, Recruitment, Performance, MIS Reports).  
+  - 🔐 Integrated **role-based access**, secure auth, and **API-driven workflows** for Leave, Training, Expense & Loans, Exit & F&F, and User Management.  
+  - 🚀 Ensured responsive design and performance via **code-splitting**, **memoization**, and efficient API integrations.  
+  - 🔧 **Stack:** ![eact.js 
+    !Redux Toolkit 
+    !Tailwind CSS 
+    ![SASS](https://imgipt 
+    ![Jira](https://img.shields.io/badge/Jira-0052o/badge/Hoppscotch-adge/FormEngine-4B8BA9?logo🗓️ May 2025 – Jun 2025 | 🌐 Remote*  
+  - 🧑‍🏫 Built a scalable Tutor Management System for personalized home tuition services.  
+  - 🎯 Designed dynamic UI components and smooth user interactions for enhanced UX.  
+  - 🔧 **Stack:** ![Nextjs 
+    ![Tailwind CSS](https://img.shields.io/badge/Taillds.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=blackdy.ai**  
+
+
 - **🎨 Frontend Developer — [Codesoar.io](https://codesoar.io)**  
   *🗓️ May 2025 – Jun 2025 | 🌐 Remote*  
   - 🧑‍🏫 Built a scalable Tutor Management System for personalized home tuition services.  
