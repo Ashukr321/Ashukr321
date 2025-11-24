@@ -88,7 +88,7 @@ Hello there! 👋 I'm **Ashutosh Kumar**, currently working as **Software Develo
   - 🔧 **Stack:** ![eact.js 
     !Redux Toolkit 
     !Tailwind CSS 
-    ![SASS](https://imgipt 
+   ![SASS](https://img.shields.io/endpoint?url=jira)
     ![Jira](https://img.shields.io/badge/Jira-0052o/badge/Hoppscotch-adge/FormEngine-4B8BA9?logo🗓️ May 2025 – Jun 2025 | 🌐 Remote*  
   - 🧑‍🏫 Built a scalable Tutor Management System for personalized home tuition services.  
   - 🎯 Designed dynamic UI components and smooth user interactions for enhanced UX.  
