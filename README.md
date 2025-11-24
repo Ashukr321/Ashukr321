@@ -42,7 +42,7 @@
 <br />
 
 
-### 👨‍💻 A brief intro about me...<ttps://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+### 👨‍💻 A brief intro about me 
 
 Hello there! 👋 I'm **Ashutosh Kumar**, currently working as **Software Development Engineer I (SDE I) at CodeBucket**, passionate about building scalable and user-centric web applications using **React**, **Next.js**, and the **MERN stack**.
 
