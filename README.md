@@ -85,16 +85,11 @@ Hello there! 👋 I'm **Ashutosh Kumar**, currently working as **Software Develo
   - ⚙️ Built reusable React components, implemented **advanced search & filters**, and optimized **state management** for dynamic modules (ESS, Attendance, Payroll, Recruitment, Performance, MIS Reports).  
   - 🔐 Integrated **role-based access**, secure auth, and **API-driven workflows** for Leave, Training, Expense & Loans, Exit & F&F, and User Management.  
   - 🚀 Ensured responsive design and performance via **code-splitting**, **memoization**, and efficient API integrations.  
-  - 🔧 **Stack:** ![eact.js 
-    !Redux Toolkit 
-    !Tailwind CSS 
-   ![SASS](https://img.shields.io/endpoint?url=jira)
-    ![Jira](https://img.shields.io/badge/Jira-0052o/badge/Hoppscotch-adge/FormEngine-4B8BA9?logo🗓️ May 2025 – Jun 2025 | 🌐 Remote*  
+  - 🔧 **Stack:**
+  - 
+    ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
   - 🧑‍🏫 Built a scalable Tutor Management System for personalized home tuition services.  
   - 🎯 Designed dynamic UI components and smooth user interactions for enhanced UX.  
-  - 🔧 **Stack:** ![Nextjs 
-    ![Tailwind CSS](https://img.shields.io/badge/Taillds.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=blackdy.ai**  
-
 
 - **🎨 Frontend Developer — [Codesoar.io](https://codesoar.io)**  
   *🗓️ May 2025 – Jun 2025 | 🌐 Remote*  
