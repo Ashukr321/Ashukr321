@@ -103,13 +103,13 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 ## 📊 GitHub Stats
 
 ## 🔥 My Stats:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashukr321&theme=react-dark)](https://github.com/ashukr321/)
->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashukr321&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukr321&layout=compact&theme=radical" height="180"/>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashukr321&theme=react-dark)](https://github.com/ashukr321/)
+>
 ---
 
 ### 📫 Let’s Connect
