@@ -62,7 +62,10 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 - 🔗 [Frontend System Design](https://github.com/Ashukr321/Frontend-System-Design)
 - 🔗 [Frontend Machine Coding](https://github.com/Ashukr321/Frontend_Machine_Coding_Task)
 - 🔗 [JavaScript Design Patterns](https://github.com/Ashukr321/javascript-design-patterns-for-humans)
-
+  
+### State Management 
+- [Redux Toolkit And React Query](https://github.com/Ashukr321/Complete-React-Redux-State-Management)
+  
 ### 🛠️ Tooling & Debugging
 - 🔗 [Chrome DevTools Mastery](https://github.com/Ashukr321/chromeDevTools-are-you-confident-in-your-expertise)
 - 🔗 [Frontend Toolkit](https://github.com/Ashukr321/frontend-toolkit)
