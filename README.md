@@ -37,47 +37,66 @@ I focus on building **scalable, maintainable, and performance-optimized frontend
 - 🏆 Hackathon Winner – **GDG Patna**, Runner-up – **HackIt AUP 2025**
 - 🌱 Currently exploring **Frontend Architecture, System Design & Performance Engineering**
 
----
 
-## 🧠 Frontend Engineering Knowledge Base (Core Strength)
 
-I maintain a **structured frontend engineering knowledge system** for long-term learning, revision, and real-world reference.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🌐 Fundamentals
-- 🔗 [HTML – Basic to Advanced](https://github.com/Ashukr321/Complete-Html-Basic-to-Advanced)
-- 🔗 [CSS – Basic to Advanced](https://github.com/Ashukr321/Complete-Css-Basic-to-Advanced)
+      <h4>🌐 Fundamentals & CSS</h4>
+      <ul>
+        <li><a href="https://github.com/Ashukr321/Complete-Html-Basic-to-Advanced">HTML – Basic to Advanced</a></li>
+        <li><a href="https://github.com/Ashukr321/Complete-Css-Basic-to-Advanced">CSS – Basic to Advanced</a></li>
+        </ul>
 
-### ⚙️ JavaScript Deep Dive
-- 🔗 [JavaScript Complete Guide](https://github.com/Ashukr321/complete-javascript-Basic-to-Advanced)
-- 🔗 [JS Internals](https://github.com/Ashukr321/How_Javascript_Work_Internally)
-- 🔗 [Async JavaScript](https://github.com/Ashukr321/asynchronous-javascript-guide)
-- 🔗 [JS Output Questions](https://github.com/Ashukr321/javascript-output-questions)
-- 🔗 [OOPS in JavaScript](https://github.com/Ashukr321/javascript-oops-concepts)
+      <h4>⚙️ JavaScript Deep Dive</h4>
+      <ul>
+        <li><a href="https://github.com/Ashukr321/complete-javascript-Basic-to-Advanced">JavaScript Complete Guide</a></li>
+        <li><a href="https://github.com/Ashukr321/How_Javascript_Work_Internally">JS Internals & Execution</a></li>
+        <li><a href="https://github.com/Ashukr321/asynchronous-javascript-guide">Async JavaScript</a></li>
+        <li><a href="https://github.com/Ashukr321/javascript-output-questions">JS Output Questions</a></li>
+        <li><a href="https://github.com/Ashukr321/javascript-oops-concepts">OOPS in JavaScript</a></li>
+        </ul>
 
-### ⚛️ React & Performance
-- 🔗 [Optimize React Re-Renders](https://github.com/Ashukr321/optimize-react-re-renders)
-- 🔗 [Modern Rendering Strategies](https://github.com/Ashukr321/modern-rendering-strategies)
+      <h4>🏗️ Architecture & System Design</h4>
+      <ul>
+        <li><a href="https://github.com/Ashukr321/Frontend-System-Design">Frontend System Design</a></li>
+        <li><a href="https://github.com/Ashukr321/Frontend_Machine_Coding_Task">Frontend Machine Coding</a></li>
+        <li><a href="https://github.com/Ashukr321/javascript-design-patterns-for-humans">JS Design Patterns</a></li>
+        </ul>
 
-### 🏗️ Architecture & System Design
-- 🔗 [Frontend System Design](https://github.com/Ashukr321/Frontend-System-Design)
-- 🔗 [Frontend Machine Coding](https://github.com/Ashukr321/Frontend_Machine_Coding_Task)
-- 🔗 [JavaScript Design Patterns](https://github.com/Ashukr321/javascript-design-patterns-for-humans)
-  
-### State Management 
-- [Redux Toolkit And React Query](https://github.com/Ashukr321/Complete-React-Redux-State-Management)
-  
-### 🛠️ Tooling & Debugging
-- 🔗 [Chrome DevTools Mastery](https://github.com/Ashukr321/chromeDevTools-are-you-confident-in-your-expertise)
-- 🔗 [Frontend Toolkit](https://github.com/Ashukr321/frontend-toolkit)
-- 🔗 [Git & GitHub Complete Guide](https://github.com/Ashukr321/complete-git-and-github)
+    </td>
 
----
+    <td width="50%" valign="top">
 
-### Frontend CI CD 
-- [Docker Books](https://github.com/Ashukr321/docker-books)
+      <h4>⚛️ React & Performance</h4>
+      <ul>
+        <li><a href="https://github.com/Ashukr321/optimize-react-re-renders">Optimize React Re-Renders</a></li>
+        <li><a href="https://github.com/Ashukr321/modern-rendering-strategies">Modern Rendering Strategies</a></li>
+        </ul>
 
-### Certification 
-- [Certification](https://github.com/Ashukr321/career-certifications)
+      <h4>📦 State Management</h4>
+      <ul>
+        <li><a href="https://github.com/Ashukr321/Complete-React-Redux-State-Management">Redux Toolkit & React Query</a></li>
+        </ul>
+
+      <h4>🛠️ Tooling & Debugging</h4>
+      <ul>
+        <li><a href="https://github.com/Ashukr321/chromeDevTools-are-you-confident-in-your-expertise">Chrome DevTools Mastery</a></li>
+        <li><a href="https://github.com/Ashukr321/frontend-toolkit">Frontend Toolkit</a></li>
+        <li><a href="https://github.com/Ashukr321/complete-git-and-github">Git & GitHub Guide</a></li>
+        </ul>
+
+      <h4>🐳 DevOps & Career</h4>
+      <ul>
+        <li><a href="https://github.com/Ashukr321/docker-books">Docker & CI/CD Books</a></li>
+        <li><a href="https://github.com/Ashukr321/career-certifications">Professional Certifications</a></li>
+        </ul>
+
+    </td>
+  </tr>
+</table>
+
 ## 💼 Work Experience
 
 ### 🧠 Software Development Engineer I — CodeBucket  
