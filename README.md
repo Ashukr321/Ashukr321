@@ -78,6 +78,8 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 
 ### Certification 
 - [Certification](https://github.com/Ashukr321/career-certifications)
+### Api Design 
+- [Api Design ](https://github.com/Ashukr321/api-design)
 ## 💼 Work Experience
 
 ### 🧠 Software Development Engineer I — CodeBucket  
