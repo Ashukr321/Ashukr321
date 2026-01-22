@@ -13,16 +13,14 @@
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
   </a>
   <a href="mailto:coderashukr321@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://devashu.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
+  <a href="https://wa.me/917004246315" target="_blank" title="Contact: +91 7004246315">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashukr321&label=Profile%20Views&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/ashukr321?label=Followers" />
+  <a href="YOUR_RESUME_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=googledrive&logoColor=white" />
+  </a>
 </p>
 
 ---
