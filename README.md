@@ -93,10 +93,10 @@
     <td width="50%" valign="top">
       <h3>📝 Snippets & Gists</h3>
       <p>I share reusable logic, React hooks, and deep-dive technical notes for quick reference and community use.</p>
-      <ul>
+      <!-- <ul>
         <li>⚡ <strong>React Utils:</strong> Custom hooks & state logic.</li>
         <li>⚙️ <strong>JS Internals:</strong> Call Stack & Event Loop visuals.</li>
-      </ul>
+      </ul> -->
       <a href="https://gist.github.com/ashukr321"><strong>View all Gists →</strong></a>
     </td>
   </tr>
