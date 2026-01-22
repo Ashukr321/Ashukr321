@@ -2,9 +2,7 @@
   <img height="360" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
-<h3 align="center">Software Development Engineer - 1 ( Codebucket )</h3>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=002147&secondaryColor=0070f3&height=160&section=header&text=Hi%20👋,%20I'm%20Ashutosh%20Kumar&desc=Software%20Development%20Engineer%20-%201%20(%20Codebucket%20)&fontSize=40&fontColor=ffffff&descSize=20&descAlignY=55&fontAlignY=35" width="100%"/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashukr321&label=Profile%20Views&color=0e75b6" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ashukr321?label=Followers&style=flat&color=2ea44f" alt="Followers" />
@@ -36,8 +34,6 @@
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=googledrive&logoColor=white" />
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -200,3 +196,4 @@ I specialize in building scalable frontend architectures with the **MERN Stack**
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 ### 📫 Let’s Connect
 If you’re interested in **frontend architecture, performance optimization, or scalable UI systems**, let’s collaborate 🚀
+
