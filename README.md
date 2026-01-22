@@ -29,13 +29,33 @@
 
 ## 👨‍💻 About Me
 
-I'm **Ashutosh Kumar**, currently working as **Software Development Engineer I (SDE-I) at CodeBucket**.  
-I focus on building **scalable, maintainable, and performance-optimized frontend systems** using **React, Next.js, and MERN stack**.
-
-- 🎓 **BCA** – Amity University Patna (2025, CGPA 8.75)  
-- 🎓 **MCA (Pursuing)** – Amity University Online (Expected 2027)  
-- 🏆 Hackathon Winner – **GDG Patna**, Runner-up – **HackIt AUP 2025**
-- 🌱 Currently exploring **Frontend Architecture, System Design & Performance Engineering**
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        I am a <strong>Software Development Engineer (SDE-I)</strong> at <strong>CodeBucket</strong>, dedicated to architecting high-performance, scalable, and user-centric frontend systems. My expertise lies in the <strong>React ecosystem</strong>, where I bridge the gap between complex backend logic and seamless user experiences.
+      </p>
+      <p>
+        I am driven by <strong>technical excellence</strong>—whether it's optimizing rendering cycles in React or digitizing large-scale government ecosystems like the <strong>Gyandeep RTE portal</strong>. Currently, I am deepening my expertise in <strong>Frontend Architecture</strong> and <strong>System Design</strong> while pursuing my MCA.
+      </p>
+      <p>
+        🌱 <strong>Focusing on:</strong> Performance Engineering, Micro-Frontends, and Scalable Design Systems.
+      </p>
+    </td>
+    <td width="40%" valign="top">
+      <strong>🎓 Education</strong>
+      <ul>
+        <li><strong>MCA (Pursuing)</strong> <br> Amity University Online (2027)</li>
+        <li><strong>BCA</strong> (CGPA: 8.75) <br> Amity University Patna (2025)</li>
+      </ul>
+      <strong>🏆 Achievements</strong>
+      <ul>
+        <li>🥇 <strong>Winner</strong> – GDG Patna Hackathon</li>
+        <li>🥈 <strong>Runner-up</strong> – HackIt AUP 2025</li>
+      </ul>
+    </td>
+  </tr>
+</table>**Frontend Architecture, System Design & Performance Engineering**
 
 ---
 
