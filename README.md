@@ -75,14 +75,16 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 | **TicketBuddy.ai** <br> 👨‍💻 MERN Intern <br> 🗓️ *United Kingdom* | **AI Mailing & Monitoring** | • Developed automated mailing and monitoring dashboards using **Node.js REST APIs**. <br> • Implemented **caching layers** and complex client state management using **Redux Toolkit**. <br> • Built responsive UI components with strict **Formik & Yup** validation. <br> • Resolved critical cross-browser compatibility issues to ensure a seamless UX. <br> 🛠️ *MongoDB, Express, React, Node.js, TypeScript* | [🏢 Company](https://ticketbuddy.ai/) |
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tooling
 
-**Languages:** JavaScript, TypeScript, HTML, CSS  
-**Frontend:** React, Next.js, Tailwind, MUI  
-**Backend:** Node.js, Express  
-**Database:** MongoDB, MySQL  
-**Tooling:** Git, GitHub Actions, Docker, Postman  
-**Build Tools:** Webpack, Vite, npm, pnpm  
+I specialize in the **MERN Stack** with a heavy focus on **Frontend Architecture** and **Performance Engineering**.
+
+| **Core Frontend** | **Backend & Database** | **DevOps & Tooling** | **Build & Runtime** |
+| :--- | :--- | :--- | :--- |
+| ⚛️ **React / Next.js** | 🟢 **Node.js / Express** | 🐳 **Docker** | 📦 **Webpack / Vite** |
+| 📘 **TypeScript / ES6+** | 🍃 **MongoDB** | 🐙 **GitHub Actions** | 🚀 **npm / pnpm** |
+| 🎨 **Tailwind / MUI** | 🐬 **MySQL** | 🛠️ **Git / Postman** | ☁️ **Vercel / AWS** |
+| 🎭 **SASS / CSS3** | 🔒 **JWT / Auth** | 📊 **Jira / Agile** | 🔍 **Chrome DevTools** | 
 
 ---
 
