@@ -37,7 +37,7 @@
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -75,7 +75,8 @@
 </table>
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
+
 
 ## 📈 Learning & Knowledge Sharing
 
@@ -101,6 +102,8 @@
     </td>
   </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
 ## 🧠 Frontend Engineering Knowledge Base
 
@@ -129,7 +132,7 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 </tr>
 </table>
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
 ## 💼 Work Experience
 
@@ -138,7 +141,9 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 | **CodeBucket** <br> 🚀 SDE-I <br> 🗓️ *Nov 2025 - Present* | **Gyandeep (RTE Bihar)** & **BSRTC HRMS** | • Leading development of the **Gyandeep RTE portal** to digitize the Right to Education process, replacing manual registration with a digital ecosystem. <br> • Built complex, multi-step modules for **School Updates & Student Registration** using optimized state management. <br> • Developed **interactive dashboards** and MIS reporting tools with advanced search and real-time monitoring. <br> • Integrated secure API-driven workflows and **RBAC** for sensitive enrollment data. <br> 🛠️ *React.js, Redux Toolkit, Tailwind CSS, SASS, Jira* | [🏢 Company](https://codebuckets.in/) <br> [🔗 Project](https://gyandeep-rte.bihar.gov.in/) |
 | **Codesoar.io** <br> 🎨 Frontend Intern <br> 🗓️ *May 2025 - June 2025* | **Tutor Management System** | • Built a scalable management system using **Next.js** with **SSR** and **ISR** for lightning-fast load times. <br> • Integrated RESTful APIs and implemented secure **Role-Based Authentication (JWT)**. <br> • Focused on type-safety and responsive UI architecture. <br> 🛠️ *Next.js, TypeScript, Tailwind CSS, Context API, Vercel* | [🏢 Company](https://codesoar.io/) |
 | **TicketBuddy.ai** <br> 👨‍💻 MERN Intern <br> 🗓️ *United Kingdom* | **AI Mailing & Monitoring** | • Developed automated mailing and monitoring dashboards using **Node.js REST APIs**. <br> • Implemented **caching layers** and complex client state management using **Redux Toolkit**. <br> • Built responsive UI components with strict **Formik & Yup** validation. <br> • Resolved critical cross-browser compatibility issues to ensure a seamless UX. <br> 🛠️ *MongoDB, Express, React, Node.js, TypeScript* | [🏢 Company](https://ticketbuddy.ai/) |
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
+
 ## 🛠️ Tech Stack & Tooling
 
 I specialize in building scalable frontend architectures with the **MERN Stack**, focusing on performance, security, and clean system design.
@@ -180,7 +185,7 @@ I specialize in building scalable frontend architectures with the **MERN Stack**
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -192,7 +197,6 @@ I specialize in building scalable frontend architectures with the **MERN Stack**
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashukr321&theme=react-dark)](https://github.com/ashukr321/)
 >
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 ### 📫 Let’s Connect
 If you’re interested in **frontend architecture, performance optimization, or scalable UI systems**, let’s collaborate 🚀
