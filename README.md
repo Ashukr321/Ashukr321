@@ -101,7 +101,6 @@
     </td>
   </tr>
 </table>
----
 
 ## 🧠 Frontend Engineering Knowledge Base
 
@@ -130,13 +129,7 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 </tr>
 </table>
 
-## 📝 Code Snippets & Gists
-I regularly share reusable logic and deep-dive technical notes via GitHub Gists.
-- ⚡ **React Utils:** Optimized hooks and custom state management snippets.
-- ⚙️ **JS Internals:** Visualizing the Call Stack and Event Loop through code.
-- 🛠️ **Config:** My personal `.bashrc`, `.vimrc`, and Docker setups.
 
-👉 [**View all my Gists here**](https://gist.github.com/ashukr321)
 
 ## 💼 Work Experience
 
