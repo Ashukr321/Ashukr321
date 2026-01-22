@@ -79,12 +79,40 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 
 I specialize in the **MERN Stack** with a heavy focus on **Frontend Architecture** and **Performance Engineering**.
 
-| **Core Frontend** | **Backend & Database** | **DevOps & Tooling** | **Build & Runtime** |
-| :--- | :--- | :--- | :--- |
-| ⚛️ **React / Next.js** | 🟢 **Node.js / Express** | 🐳 **Docker** | 📦 **Webpack / Vite** |
-| 📘 **TypeScript / ES6+** | 🍃 **MongoDB** | 🐙 **GitHub Actions** | 🚀 **npm / pnpm** |
-| 🎨 **Tailwind / MUI** | 🐬 **MySQL** | 🛠️ **Git / Postman** | ☁️ **Vercel / AWS** |
-| 🎭 **SASS / CSS3** | 🔒 **JWT / Auth** | 📊 **Jira / Agile** | 🔍 **Chrome DevTools** | 
+<div align="center">
+  <table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr>
+      <td width="25%" valign="top">
+        <strong>🌐 Frontend</strong><br>
+        • React / Next.js<br>
+        • TypeScript / ES6+<br>
+        • Tailwind / MUI<br>
+        • SASS / CSS3
+      </td>
+      <td width="25%" valign="top">
+        <strong>🖥️ Backend</strong><br>
+        • Node.js / Express<br>
+        • MongoDB / MySQL<br>
+        • JWT / OAuth<br>
+        • REST APIs
+      </td>
+      <td width="25%" valign="top">
+        <strong>⚙️ DevOps</strong><br>
+        • Docker<br>
+        • GitHub Actions<br>
+        • Vercel / AWS<br>
+        • Git
+      </td>
+      <td width="25%" valign="top">
+        <strong>🔧 Tooling</strong><br>
+        • Webpack / Vite<br>
+        • npm / pnpm<br>
+        • Postman / Jira<br>
+        • Chrome DevTools
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
