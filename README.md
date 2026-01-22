@@ -74,30 +74,39 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 | **Codesoar.io** <br> 🎨 Frontend Intern <br> 🗓️ *May 2025 - June 2025* | **Tutor Management System** | • Built a scalable management system using **Next.js** with **SSR** and **ISR** for lightning-fast load times. <br> • Integrated RESTful APIs and implemented secure **Role-Based Authentication (JWT)**. <br> • Focused on type-safety and responsive UI architecture. <br> 🛠️ *Next.js, TypeScript, Tailwind CSS, Context API, Vercel* | [🏢 Company](https://codesoar.io/) |
 | **TicketBuddy.ai** <br> 👨‍💻 MERN Intern <br> 🗓️ *United Kingdom* | **AI Mailing & Monitoring** | • Developed automated mailing and monitoring dashboards using **Node.js REST APIs**. <br> • Implemented **caching layers** and complex client state management using **Redux Toolkit**. <br> • Built responsive UI components with strict **Formik & Yup** validation. <br> • Resolved critical cross-browser compatibility issues to ensure a seamless UX. <br> 🛠️ *MongoDB, Express, React, Node.js, TypeScript* | [🏢 Company](https://ticketbuddy.ai/) |
 ---
-
 ## 🛠️ Tech Stack & Tooling
 
 I specialize in building scalable frontend architectures with the **MERN Stack**, focusing on performance, security, and clean system design.
 
-<div align="center">
-  <table style="border-collapse: collapse; margin: 0 auto; width: auto;">
-    <thead>
-      <tr>
-        <th align="left" style="padding: 10px; border-bottom: 2px solid #444;">⚛️ Core Frontend</th>
-        <th align="left" style="padding: 10px; border-bottom: 2px solid #444;">🟢 Backend & DB</th>
-        <th align="left" style="padding: 10px; border-bottom: 2px solid #444;">🐳 DevOps & Tooling</th>
-        <th align="left" style="padding: 10px; border-bottom: 2px solid #444;">📦 Build & Runtime</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td valign="top" style="padding: 10px;">React / Next.js<br>Redux Toolkit<br>TypeScript / ES6+<br>Tailwind / MUI</td>
-        <td valign="top" style="padding: 10px;">Node.js / Express<br>MongoDB / MySQL<br>RBAC / JWT Auth<br>REST API Design</td>
-        <td valign="top" style="padding: 10px;">Docker<br>GitHub Actions<br>Vercel / AWS<br>Git / Postman</td>
-        <td valign="top" style="padding: 10px;">Webpack / Vite<br>npm / pnpm / Yarn<br>Jira / Agile<br>Chrome DevTools</td>
-      </tr>
-    </tbody>
-  </table>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%;">
+  <div style="flex: 1; min-width: 200px; padding: 15px; border: 1px solid #30363d; border-radius: 6px;">
+    <strong>⚛️ Core Frontend</strong><br><br>
+    • React / Next.js<br>
+    • Redux Toolkit<br>
+    • TypeScript / ES6+<br>
+    • Tailwind / MUI / SASS
+  </div>
+  <div style="flex: 1; min-width: 200px; padding: 15px; border: 1px solid #30363d; border-radius: 6px;">
+    <strong>🟢 Backend & DB</strong><br><br>
+    • Node.js / Express<br>
+    • MongoDB / MySQL<br>
+    • RBAC / JWT Auth<br>
+    • REST API Design
+  </div>
+  <div style="flex: 1; min-width: 200px; padding: 15px; border: 1px solid #30363d; border-radius: 6px;">
+    <strong>🐳 DevOps & Tooling</strong><br><br>
+    • Docker / GitHub Actions<br>
+    • Vercel / AWS / Netlify<br>
+    • Git / Postman / Hoppscotch<br>
+    • SSR / ISR / Optimization
+  </div>
+  <div style="flex: 1; min-width: 200px; padding: 15px; border: 1px solid #30363d; border-radius: 6px;">
+    <strong>📦 Build & Runtime</strong><br><br>
+    • Webpack / Vite<br>
+    • npm / pnpm / Yarn<br>
+    • Jira / Agile / Scrum<br>
+    • Chrome DevTools
+  </div>
 </div>
 
 ---
