@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
-<h3 align="center">Software Development Engineer -1  (Codebucket)</h3>
+<h3 align="center">Software Development Engineer -1  ( Codebucket )</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ashutosh-kumar-7ba1a6211" target="_blank">
