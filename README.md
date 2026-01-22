@@ -14,6 +14,9 @@
   <a href="https://linkedin.com/in/ashutosh-kumar-7ba1a6211" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@buildsystemsdev" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
+  </a>
   <a href="https://instagram.com/ashukr321" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
