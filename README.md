@@ -194,6 +194,7 @@ I specialize in building scalable frontend architectures with the **MERN Stack**
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashukr321&theme=react-dark)](https://github.com/ashukr321/)
 >
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
+
 ### 📫 Let’s Connect
 If you’re interested in **frontend architecture, performance optimization, or scalable UI systems**, let’s collaborate 🚀
 
