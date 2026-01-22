@@ -32,7 +32,7 @@
   <a href="YOUR_RESUME_URL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=googledrive&logoColor=white" />
   </a>
-</p>>
+</p>
 
 ---
 
