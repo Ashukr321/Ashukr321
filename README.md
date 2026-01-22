@@ -42,19 +42,19 @@
   <tr>
     <td width="60%" valign="top">
       <p>
-        I am a <strong>Software Development Engineer (SDE-I)</strong> at <strong>CodeBucket</strong>, dedicated to architecting high-performance, scalable, and user-centric frontend systems. My expertise lies in the <strong>React ecosystem</strong>, where I bridge the gap between complex backend logic and seamless user experiences.
+        I am a <strong>Software Development Engineer (SDE-I)</strong> at <strong>CodeBucket</strong>, specializing in architecting high-performance, scalable frontend systems. I focus on the <strong>React ecosystem</strong>, building the bridge between complex business logic and high-conversion user experiences.
       </p>
       <p>
-        I am driven by <strong>technical excellence</strong>—whether it's optimizing rendering cycles in React or digitizing large-scale government ecosystems like the <strong>Gyandeep RTE portal</strong>. Currently, I am deepening my expertise in <strong>Frontend Architecture</strong>, <strong>System Design</strong>, and <strong>Performance Engineering</strong> while pursuing my MCA.
+        My work is driven by <strong>performance engineering</strong>—from optimizing React rendering cycles to scaling digital government ecosystems like the <strong>Gyandeep RTE portal</strong>. Currently, I am mastering <strong>Frontend System Design</strong> and <strong>Micro-Frontends</strong> to build more resilient web architectures.
       </p>
       <p>
-        🌱 <strong>Currently exploring:</strong> Advanced Frontend Patterns, Micro-Frontends, and Scalable Design Systems.
+        🚀 <strong>Current Goal:</strong> Mastering Enterprise-scale Frontend Architecture while pursuing my MCA at Amity.
       </p>
     </td>
     <td width="40%" valign="top">
       <strong>🎓 Education</strong>
       <ul>
-        <li><strong>MCA (Pursuing)</strong> <br> Amity University Online (2027)</li>
+        <li><strong>MCA (Pursuing)</strong> <br> Amity University Online (Expected 2027)</li>
         <li><strong>BCA</strong> (CGPA: 8.75) <br> Amity University Patna (2025)</li>
       </ul>
       <strong>🏆 Achievements</strong>
@@ -62,14 +62,19 @@
         <li>🥇 <strong>Winner</strong> – GDG Patna Hackathon</li>
         <li>🥈 <strong>Runner-up</strong> – HackIt AUP 2025</li>
       </ul>
-      <strong>📚 Hobbies & Reading</strong>
+      <strong>📚 Reading List</strong>
       <ul>
-        <li>Reading Tech Literature</li>
-        <li><em>Favorites:</em> <strong>Clean Code</strong> & <strong>System Design Interview</strong></li>
+        <li><em>Current:</em> <strong>System Design Interview</strong></li>
+        <li><em>Favorite:</em> <strong>Clean Code</strong></li>
       </ul>
     </td>
   </tr>
 </table>
+
+> [!TIP]
+> **Daily Learning Journal:** I document my daily code optimizations, bugs fixed, and architectural decisions in my [**Developer Learning Journal**](https://github.com/Ashukr321/developer-learning-journal). I am a firm believer in the **"Learn in Public"** philosophy to maintain discipline and track growth.
+
+---
 
 ---
 
