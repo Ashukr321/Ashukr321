@@ -65,6 +65,7 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 </td>
 </tr>
 </table>
+
 ## 💼 Work Experience
 
 ### 🧠 Software Development Engineer I — CodeBucket  
