@@ -68,20 +68,11 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 
 ## 💼 Work Experience
 
-### 🧠 Software Development Engineer I — CodeBucket  
-**Nov 2025 – Present | Patna, India**
-- Building a **centralized HRMS platform for BSRTC**
-- Designed reusable React components & optimized state management
-- Implemented **role-based access, filters, search, dashboards**
-- Focused on **performance, scalability & clean architecture**
-
-### 🎨 Frontend Developer — Codesoar (Remote)
-- Built scalable UI systems using **Next.js + Tailwind**
-- Improved UX through reusable components
-
-### 👨‍💻 MERN Intern — TicketBuddy.ai (UK)
-- Built full-stack features for AI mailing platform
-- Worked on APIs, forms, and frontend integrations
+| **Role & Company** | **Key Contributions & Impact** |
+| :--- | :--- |
+| **Software Development Engineer I** <br> 🏢 **CodeBucket** <br> 🗓️ *Nov 2025 – Present* | • Building a **centralized HRMS platform for BSRTC**. <br> • Designed a library of **reusable React components** for enterprise-wide use. <br> • Developed **RBAC (Role-Based Access Control)**, dynamic filters, and analytical dashboards. <br> • Focused on **performance optimization** and scalable frontend architecture. |
+| **Frontend Developer** <br> 🏢 **Codesoar (Remote)** | • Architected scalable UI systems utilizing **Next.js and Tailwind CSS**. <br> • Enhanced user experience (UX) through modular component design and pattern consistency. |
+| **MERN Stack Intern** <br> 🏢 **TicketBuddy.ai (UK)** | • Developed full-stack features for an **AI-driven mailing platform**. <br> • Engineered robust API integrations, secure forms, and frontend-to-backend data flows. |
 
 ---
 
