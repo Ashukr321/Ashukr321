@@ -70,10 +70,9 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 
 | **Company & Role** | **Core Projects** | **Key Contributions & Tech Stack** | **Links** |
 | :--- | :--- | :--- | :--- |
-| **CodeBucket** <br> 🚀 SDE-I <br> 🗓️ *Nov 2025 - Present* | **BSRTC HRMS** (Centralized Platform) | • Engineered **RBAC Systems** and complex analytical dashboards. <br> • Developed a **Reusable Component Library** to standardize UI across the org. <br> 🛠️ *React, Redux, Node.js, MUI* | [🏢 Company](https://codebucket.co.in/) <br> [🔗 Project](https://devashu.tech) |
-| **Codesoar** <br> 🎨 Frontend Dev <br> 🗓️ *Remote* | **Scalable UI Systems** | • Architected modular UI patterns focusing on **Atomic Design**. <br> • Optimized rendering performance using **Next.js Server Components**. <br> 🛠️ *Next.js, Tailwind CSS, TypeScript* | [🏢 Company](https://codesoar.com) <br> [🔗 Portfolio](https://devashu.tech) |
-| **TicketBuddy.ai** <br> 👨‍💻 MERN Intern <br> 🗓️ *United Kingdom* | **AI Mailing Platform** | • Integrated **AI APIs** for automated mail generation and tracking. <br> • Built secure, high-performance forms with **React Hook Form & Zod**. <br> 🛠️ *MongoDB, Express, React, Node.js* | [🏢 Company](https://ticketbuddy.ai) <br> [🔗 Demo](https://devashu.tech) |
-
+| **CodeBucket** <br> 🚀 SDE-I <br> 🗓️ *Nov 2025 - Present* | **Gyandeep (RTE Bihar)** & **BSRTC HRMS** | • Engineered **RBAC Systems** and high-performance analytical dashboards for government-scale platforms. <br> • Developed a **Reusable Component Library** to standardize UI development. <br> 🛠️ *React, Redux, Node.js, MUI* | [🏢 Company](https://codebuckets.in/) <br> [🔗 Project](https://gyandeep-rte.bihar.gov.in/) |
+| **Codesoar** <br> 🎨 Frontend Dev <br> 🗓️ *Remote* | **Scalable UI Systems** | • Architected modular UI patterns focusing on **Atomic Design** principles for better maintainability. <br> • Optimized rendering performance using **Next.js Server Components**. <br> 🛠️ *Next.js, Tailwind CSS, TypeScript* | [🏢 Company](https://codesoar.io/) <br> [🔗 Portfolio](https://devashu.tech) |
+| **TicketBuddy.ai** <br> 👨‍💻 MERN Intern <br> 🗓️ *United Kingdom* | **AI Mailing Platform** | • Integrated **AI APIs** for automated mail generation and tracking systems. <br> • Built secure, high-performance forms with **React Hook Form & Zod**. <br> 🛠️ *MongoDB, Express, React, Node.js* | [🏢 Company](https://ticketbuddy.ai/) <br> [🔗 Demo](https://devashu.tech) |
 ---
 
 ## 🛠️ Tech Stack
