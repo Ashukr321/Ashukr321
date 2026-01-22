@@ -77,40 +77,26 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 
 ## 🛠️ Tech Stack & Tooling
 
-I specialize in the **MERN Stack** with a heavy focus on **Frontend Architecture** and **Performance Engineering**.
+I specialize in building scalable frontend architectures with the **MERN Stack**, focusing on performance, security, and clean system design.
 
 <div align="center">
-  <table style="width: 100%; border-collapse: collapse; border: none;">
-    <tr>
-      <td width="25%" valign="top">
-        <strong>🌐 Frontend</strong><br>
-        • React / Next.js<br>
-        • TypeScript / ES6+<br>
-        • Tailwind / MUI<br>
-        • SASS / CSS3
-      </td>
-      <td width="25%" valign="top">
-        <strong>🖥️ Backend</strong><br>
-        • Node.js / Express<br>
-        • MongoDB / MySQL<br>
-        • JWT / OAuth<br>
-        • REST APIs
-      </td>
-      <td width="25%" valign="top">
-        <strong>⚙️ DevOps</strong><br>
-        • Docker<br>
-        • GitHub Actions<br>
-        • Vercel / AWS<br>
-        • Git
-      </td>
-      <td width="25%" valign="top">
-        <strong>🔧 Tooling</strong><br>
-        • Webpack / Vite<br>
-        • npm / pnpm<br>
-        • Postman / Jira<br>
-        • Chrome DevTools
-      </td>
-    </tr>
+  <table style="border-collapse: collapse; margin: 0 auto; width: auto;">
+    <thead>
+      <tr>
+        <th align="left" style="padding: 10px; border-bottom: 2px solid #444;">⚛️ Core Frontend</th>
+        <th align="left" style="padding: 10px; border-bottom: 2px solid #444;">🟢 Backend & DB</th>
+        <th align="left" style="padding: 10px; border-bottom: 2px solid #444;">🐳 DevOps & Tooling</th>
+        <th align="left" style="padding: 10px; border-bottom: 2px solid #444;">📦 Build & Runtime</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td valign="top" style="padding: 10px;">React / Next.js<br>Redux Toolkit<br>TypeScript / ES6+<br>Tailwind / MUI</td>
+        <td valign="top" style="padding: 10px;">Node.js / Express<br>MongoDB / MySQL<br>RBAC / JWT Auth<br>REST API Design</td>
+        <td valign="top" style="padding: 10px;">Docker<br>GitHub Actions<br>Vercel / AWS<br>Git / Postman</td>
+        <td valign="top" style="padding: 10px;">Webpack / Vite<br>npm / pnpm / Yarn<br>Jira / Agile<br>Chrome DevTools</td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
