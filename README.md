@@ -39,50 +39,32 @@ I focus on building **scalable, maintainable, and performance-optimized frontend
 
 ---
 
-## 🧠 Frontend Engineering Knowledge Base (Core Strength)
+## 🧠 Frontend Engineering Knowledge Base
 
 I maintain a **structured frontend engineering knowledge system** for long-term learning, revision, and real-world reference.
 
-### 🌐 Fundamentals
-- 🔗 [HTML – Basic to Advanced](https://github.com/Ashukr321/Complete-Html-Basic-to-Advanced)
-- 🔗 [CSS – Basic to Advanced](https://github.com/Ashukr321/Complete-Css-Basic-to-Advanced)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
-### ⚙️ JavaScript Deep Dive
-- 🔗 [JavaScript Complete Guide](https://github.com/Ashukr321/complete-javascript-Basic-to-Advanced)
-- 🔗 [JS Internals](https://github.com/Ashukr321/How_Javascript_Work_Internally)
-- 🔗 [Async JavaScript](https://github.com/Ashukr321/asynchronous-javascript-guide)
-- 🔗 [JS Output Questions](https://github.com/Ashukr321/javascript-output-questions)
-- 🔗 [OOPS in JavaScript](https://github.com/Ashukr321/javascript-oops-concepts)
+| **Category** | **Repository Name & Link** |
+| :--- | :--- |
+| **🌐 Fundamentals** | 🔗 [Complete-Html-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Html-Basic-to-Advanced) <br> 🔗 [Complete-Css-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Css-Basic-to-Advanced) |
+| **⚙️ JS Deep Dive** | 🔗 [complete-javascript-Basic-to-Advanced](https://github.com/Ashukr321/complete-javascript-Basic-to-Advanced) <br> 🔗 [How_Javascript_Work_Internally](https://github.com/Ashukr321/How_Javascript_Work_Internally) <br> 🔗 [asynchronous-javascript-guide](https://github.com/Ashukr321/asynchronous-javascript-guide) <br> 🔗 [javascript-oops-concepts](https://github.com/Ashukr321/javascript-oops-concepts) <br> 🔗 [javascript-output-questions](https://github.com/Ashukr321/javascript-output-questions) |
+| **🛠️ Tooling & Ops** | 🔗 [chromeDevTools-are-you-confident-in-your-expertise](https://github.com/Ashukr321/chromeDevTools-are-you-confident-in-your-expertise) <br> 🔗 [complete-git-and-github](https://github.com/Ashukr321/complete-git-and-github) <br> 🔗 [docker-books](https://github.com/Ashukr321/docker-books) |
 
-### ⚛️ React & Performance
-- 🔗 [Optimize React Re-Renders](https://github.com/Ashukr321/optimize-react-re-renders)
-- 🔗 [Modern Rendering Strategies](https://github.com/Ashukr321/modern-rendering-strategies)
+</td>
+<td width="50%" valign="top">
 
-### 🏗️ Architecture & System Design
-- 🔗 [Frontend System Design](https://github.com/Ashukr321/Frontend-System-Design)
-- 🔗 [Frontend Machine Coding](https://github.com/Ashukr321/Frontend_Machine_Coding_Task)
-- 🔗 [JavaScript Design Patterns](https://github.com/Ashukr321/javascript-design-patterns-for-humans)
-  
-### State Management 
-- [Redux Toolkit And React Query](https://github.com/Ashukr321/Complete-React-Redux-State-Management)
-  
-### 🛠️ Tooling & Debugging
-- 🔗 [Chrome DevTools Mastery](https://github.com/Ashukr321/chromeDevTools-are-you-confident-in-your-expertise)
-- 🔗 [Frontend Toolkit](https://github.com/Ashukr321/frontend-toolkit)
-- 🔗 [Git & GitHub Complete Guide](https://github.com/Ashukr321/complete-git-and-github)
+| **Category** | **Repository Name & Link** |
+| :--- | :--- |
+| **⚛️ React & State** | 🔗 [optimize-react-re-renders](https://github.com/Ashukr321/optimize-react-re-renders) <br> 🔗 [modern-rendering-strategies](https://github.com/Ashukr321/modern-rendering-strategies) <br> 🔗 [Complete-React-Redux-State-Management](https://github.com/Ashukr321/Complete-React-Redux-State-Management) |
+| **🏗️ Architecture** | 🔗 [Frontend-System-Design](https://github.com/Ashukr321/Frontend-System-Design) <br> 🔗 [Frontend_Machine_Coding_Task](https://github.com/Ashukr321/Frontend_Machine_Coding_Task) <br> 🔗 [javascript-design-patterns-for-humans](https://github.com/Ashukr321/javascript-design-patterns-for-humans) |
+| **🚀 Advanced** | 🔗 [api-design](https://github.com/Ashukr321/api-design) <br> 🔗 [ai-models-integration](https://github.com/Ashukr321/ai-models-integration) <br> 🔗 [frontend-toolkit](https://github.com/Ashukr321/frontend-toolkit) <br> 🔗 [Backend-Toolkit](https://github.com/Ashukr321/Backend-Toolkit) |
 
----
-
-### Frontend CI CD 
-- [Docker Books](https://github.com/Ashukr321/docker-books)
-
-### Certification 
-- [Certification](https://github.com/Ashukr321/career-certifications)
-### Api Design 
-- [Api Design ](https://github.com/Ashukr321/api-design)
-
-### Ai Ml Integration 
-- [Ai ML Integration](https://github.com/Ashukr321/ai-models-integration)
+</td>
+</tr>
+</table>
 ## 💼 Work Experience
 
 ### 🧠 Software Development Engineer I — CodeBucket  
