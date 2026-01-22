@@ -68,11 +68,11 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 
 ## 💼 Work Experience
 
-| **Role & Company** | **Key Contributions & Impact** |
-| :--- | :--- |
-| **Software Development Engineer I** <br> 🏢 **CodeBucket** <br> 🗓️ *Nov 2025 – Present* | • Building a **centralized HRMS platform for BSRTC**. <br> • Designed a library of **reusable React components** for enterprise-wide use. <br> • Developed **RBAC (Role-Based Access Control)**, dynamic filters, and analytical dashboards. <br> • Focused on **performance optimization** and scalable frontend architecture. |
-| **Frontend Developer** <br> 🏢 **Codesoar (Remote)** | • Architected scalable UI systems utilizing **Next.js and Tailwind CSS**. <br> • Enhanced user experience (UX) through modular component design and pattern consistency. |
-| **MERN Stack Intern** <br> 🏢 **TicketBuddy.ai (UK)** | • Developed full-stack features for an **AI-driven mailing platform**. <br> • Engineered robust API integrations, secure forms, and frontend-to-backend data flows. |
+| **Company & Role** | **Core Projects** | **Key Contributions & Tech Stack** | **Links** |
+| :--- | :--- | :--- | :--- |
+| **CodeBucket** <br> 🚀 SDE-I <br> 🗓️ *Nov 2025 - Present* | **BSRTC HRMS** (Centralized Platform) | • Engineered **RBAC Systems** and complex analytical dashboards. <br> • Developed a **Reusable Component Library** to standardize UI across the org. <br> 🛠️ *React, Redux, Node.js, MUI* | [🏢 Company](https://codebucket.co.in/) <br> [🔗 Project](https://devashu.tech) |
+| **Codesoar** <br> 🎨 Frontend Dev <br> 🗓️ *Remote* | **Scalable UI Systems** | • Architected modular UI patterns focusing on **Atomic Design**. <br> • Optimized rendering performance using **Next.js Server Components**. <br> 🛠️ *Next.js, Tailwind CSS, TypeScript* | [🏢 Company](https://codesoar.com) <br> [🔗 Portfolio](https://devashu.tech) |
+| **TicketBuddy.ai** <br> 👨‍💻 MERN Intern <br> 🗓️ *United Kingdom* | **AI Mailing Platform** | • Integrated **AI APIs** for automated mail generation and tracking. <br> • Built secure, high-performance forms with **React Hook Form & Zod**. <br> 🛠️ *MongoDB, Express, React, Node.js* | [🏢 Company](https://ticketbuddy.ai) <br> [🔗 Demo](https://devashu.tech) |
 
 ---
 
