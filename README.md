@@ -78,26 +78,42 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 
 I specialize in building scalable frontend architectures with the **MERN Stack**, focusing on performance, security, and clean system design.
 
-<div align="center">
-  <table style="border-collapse: collapse; margin: 0 auto; width: auto;">
-    <thead>
-      <tr>
-        <th align="left" style="padding: 10px; border-bottom: 2px solid #444;">⚛️ Core Frontend</th>
-        <th align="left" style="padding: 10px; border-bottom: 2px solid #444;">🟢 Backend & DB</th>
-        <th align="left" style="padding: 10px; border-bottom: 2px solid #444;">🐳 DevOps & Tooling</th>
-        <th align="left" style="padding: 10px; border-bottom: 2px solid #444;">📦 Build & Runtime</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td valign="top" style="padding: 10px;">React / Next.js<br>Redux Toolkit<br>TypeScript / ES6+<br>Tailwind / MUI</td>
-        <td valign="top" style="padding: 10px;">Node.js / Express<br>MongoDB / MySQL<br>RBAC / JWT Auth<br>REST API Design</td>
-        <td valign="top" style="padding: 10px;">Docker<br>GitHub Actions<br>Vercel / AWS<br>Git / Postman</td>
-        <td valign="top" style="padding: 10px;">Webpack / Vite<br>npm / pnpm / Yarn<br>Jira / Agile<br>Chrome DevTools</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <th width="25%" align="left">⚛️ Core Frontend</th>
+    <th width="25%" align="left">🟢 Backend & DB</th>
+    <th width="25%" align="left">🐳 DevOps & Tooling</th>
+    <th width="25%" align="left">📦 Build & Runtime</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      • JavaScript (ES6+)<br>
+      • React / Next.js<br>
+      • Redux Toolkit<br>
+      • TypeScript<br>
+      • Shadcn UI / Chakra UI<br>
+      • Tailwind / MUI
+    </td>
+    <td valign="top">
+      • Node.js / Express<br>
+      • MongoDB / MySQL<br>
+      • RBAC / JWT Auth<br>
+      • REST API Design
+    </td>
+    <td valign="top">
+      • Docker<br>
+      • GitHub Actions<br>
+      • Vercel / AWS<br>
+      • Git / Postman
+    </td>
+    <td valign="top">
+      • Webpack / Vite<br>
+      • npm / pnpm / Yarn<br>
+      • Jira / Agile<br>
+      • Chrome DevTools
+    </td>
+  </tr>
+</table>
 
 ---
 
