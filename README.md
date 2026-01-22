@@ -53,6 +53,11 @@
         <li>🥇 <strong>Winner</strong> – GDG Patna Hackathon</li>
         <li>🥈 <strong>Runner-up</strong> – HackIt AUP 2025</li>
       </ul>
+      <strong>📚 Hobbies & Reading</strong>
+      <ul>
+        <li>Reading Tech Literature</li>
+        <li><em>Favorites:</em> <strong>Clean Code</strong> & <strong>System Design Interview</strong></li>
+      </ul>
     </td>
   </tr>
 </table>
