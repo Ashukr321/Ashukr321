@@ -74,11 +74,33 @@
   </tr>
 </table>
 
-> [!TIP]
-> **Daily Learning Journal:** I document my daily code optimizations, bugs fixed, and architectural decisions in my [**Developer Learning Journal**](https://github.com/Ashukr321/developer-learning-journal). I am a firm believer in the **"Learn in Public"** philosophy to maintain discipline and track growth.
 
 ---
 
+## 📈 Learning & Knowledge Sharing
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📓 Daily Learning Journal</h3>
+      <p>I document my daily code optimizations, bugs fixed, and architectural decisions to maintain discipline and track growth.</p>
+      <blockquote>
+        <a href="https://github.com/Ashukr321/developer-learning-journal">
+          <strong>View Daily Journal →</strong>
+        </a>
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 Snippets & Gists</h3>
+      <p>I share reusable logic, React hooks, and deep-dive technical notes for quick reference and community use.</p>
+      <ul>
+        <li>⚡ <strong>React Utils:</strong> Custom hooks & state logic.</li>
+        <li>⚙️ <strong>JS Internals:</strong> Call Stack & Event Loop visuals.</li>
+      </ul>
+      <a href="https://gist.github.com/ashukr321"><strong>View all Gists →</strong></a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🧠 Frontend Engineering Knowledge Base
