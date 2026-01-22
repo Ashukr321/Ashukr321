@@ -36,10 +36,10 @@
         I am a <strong>Software Development Engineer (SDE-I)</strong> at <strong>CodeBucket</strong>, dedicated to architecting high-performance, scalable, and user-centric frontend systems. My expertise lies in the <strong>React ecosystem</strong>, where I bridge the gap between complex backend logic and seamless user experiences.
       </p>
       <p>
-        I am driven by <strong>technical excellence</strong>—whether it's optimizing rendering cycles in React or digitizing large-scale government ecosystems like the <strong>Gyandeep RTE portal</strong>. Currently, I am deepening my expertise in <strong>Frontend Architecture</strong> and <strong>System Design</strong> while pursuing my MCA.
+        I am driven by <strong>technical excellence</strong>—whether it's optimizing rendering cycles in React or digitizing large-scale government ecosystems like the <strong>Gyandeep RTE portal</strong>. Currently, I am deepening my expertise in <strong>Frontend Architecture</strong>, <strong>System Design</strong>, and <strong>Performance Engineering</strong> while pursuing my MCA.
       </p>
       <p>
-        🌱 <strong>Focusing on:</strong> Performance Engineering, Micro-Frontends, and Scalable Design Systems.
+        🌱 <strong>Currently exploring:</strong> Advanced Frontend Patterns, Micro-Frontends, and Scalable Design Systems.
       </p>
     </td>
     <td width="40%" valign="top">
@@ -55,7 +55,7 @@
       </ul>
     </td>
   </tr>
-</table>**Frontend Architecture, System Design & Performance Engineering**
+</table>
 
 ---
 
