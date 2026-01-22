@@ -3,7 +3,12 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
-<h3 align="center">Software Development Engineer -1  ( Codebucket )</h3>
+<h3 align="center">Software Development Engineer - 1 ( Codebucket )</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashukr321&label=Profile%20Views&color=0e75b6" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ashukr321?label=Followers&style=flat&color=2ea44f" alt="Followers" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ashutosh-kumar-7ba1a6211" target="_blank">
@@ -17,6 +22,9 @@
   </a>
   <a href="https://wa.me/917004246315" target="_blank" title="Contact: +91 7004246315">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://devashu.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
   </a>
   <a href="YOUR_RESUME_URL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=googledrive&logoColor=white" />
