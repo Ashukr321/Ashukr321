@@ -2,7 +2,7 @@
   <img height="360" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0984e3&height=160&section=header&text=Ashutosh%20Kumar&desc=Software%20Development%20Engineer%20@%20CodeBucket%20|%20MCA%20Scholar&fontSize=40&fontColor=ffffff&descSize=18&descAlignY=62&fontAlignY=38&animation=twinkling" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0984e3&height=160&section=header&text=Ashutosh%20Kumar&desc=Software%20Development%20Engineer%20@%20CodeBucket%20&fontSize=40&fontColor=ffffff&descSize=18&descAlignY=62&fontAlignY=38&animation=twinkling" width="100%"/> 
 
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&&height=200&section=header&text=Ashutosh%20Kumar&desc=Frontend%20Developer%20|%20SDE%20@%20CodeBucket%20|%20MCA%20Scholar&fontSize=45&fontColor=ffffff&descSize=20&descAlignY=60&fontAlignY=35" width="100%"/>
