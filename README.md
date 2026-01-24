@@ -127,7 +127,7 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 | :--- | :--- |
 | **⚛️ React & State** | 🔗 [optimize-react-re-renders](https://github.com/Ashukr321/optimize-react-re-renders) <br> 🔗 [modern-rendering-strategies](https://github.com/Ashukr321/modern-rendering-strategies) <br> 🔗 [Complete-React-Redux-State-Management](https://github.com/Ashukr321/Complete-React-Redux-State-Management) |
 | **🏗️ Architecture** | 🔗 [Frontend-System-Design](https://github.com/Ashukr321/Frontend-System-Design) <br> 🔗 [Frontend_Machine_Coding_Task](https://github.com/Ashukr321/Frontend_Machine_Coding_Task) <br> 🔗 [javascript-design-patterns-for-humans](https://github.com/Ashukr321/javascript-design-patterns-for-humans) |
-| **🚀 Advanced** | 🔗 [api-design](https://github.com/Ashukr321/api-design) <br> 🔗 [ai-models-integration](https://github.com/Ashukr321/ai-models-integration) <br> 🔗 [frontend-toolkit](https://github.com/Ashukr321/frontend-toolkit) <br> 🔗 [Backend-Toolkit](https://github.com/Ashukr321/Backend-Toolkit) <br> 🔗 [Progressive-Web-Applications-PWAs](https://github.com/Ashukr321/Progressive-Web-Applications-PWAs)  | 
+| **🚀 Advanced** | 🔗 [api-design](https://github.com/Ashukr321/api-design) <br> 🔗 [ai-models-integration](https://github.com/Ashukr321/ai-models-integration) <br> 🔗 [frontend-toolkit](https://github.com/Ashukr321/frontend-toolkit) <br> 🔗 [Backend-Toolkit](https://github.com/Ashukr321/Backend-Toolkit) <br> 🔗 [Progressive-Web-Applications-PWAs](https://github.com/Ashukr321/Progressive-Web-Applications-PWAs) <br> 🔗 [Web-Accessibility-A11y](https://github.com/Ashukr321/Web-Accessibility-A11y) | 
 
 </td>
 </tr>
