@@ -193,15 +193,21 @@ I specialize in building scalable frontend architectures with the **MERN Stack**
 
 ## 📊 GitHub Stats
 
-<div>
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashukr321&theme=github_dark" width="50%" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashukr321&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukr321&layout=compact&theme=radical" height="180"/>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashukr321&theme=github_dark" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashukr321&theme=tokyonight" />
+    </td>
+  </tr>
+  <!-- <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukr321&layout=compact&theme=radical&card_width=400" />
+    </td>
+  </tr> -->
+</table>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashukr321&theme=react-dark)](https://github.com/ashukr321/)
 >
