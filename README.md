@@ -192,7 +192,13 @@ I specialize in building scalable frontend architectures with the **MERN Stack**
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
 ## 📊 GitHub Stats
-<div align="center">
+
+<div>
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashukr321&theme=github_dark" width="50%" />
+</div>
+
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashukr321&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashukr321&layout=compact&theme=radical" height="180"/>
 </div>
