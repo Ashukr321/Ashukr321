@@ -135,6 +135,29 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 </td>
 </tr>
 </table>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+| **Category** | **Repository Name & Link** |
+| :--- | :--- |
+| **🌐 Fundamentals** | 🔗 [Complete-Html-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Html-Basic-to-Advanced) <br> 🔗 [Complete-Css-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Css-Basic-to-Advanced) |
+| **⚙️ JS Deep Dive** | 🔗 [complete-javascript-Basic-to-Advanced](https://github.com/Ashukr321/complete-javascript-Basic-to-Advanced) <br> 🔗 [How_Javascript_Work_Internally](https://github.com/Ashukr321/How_Javascript_Work_Internally) <br> 🔗 [asynchronous-javascript-guide](https://github.com/Ashukr321/asynchronous-javascript-guide) <br> 🔗 [javascript-oops-concepts](https://github.com/Ashukr321/javascript-oops-concepts) <br> 🔗 [javascript-output-questions](https://github.com/Ashukr321/javascript-output-questions) |
+| **⚛️ React & State** | 🔗 [optimize-react-re-renders](https://github.com/Ashukr321/optimize-react-re-renders) <br> 🔗 [modern-rendering-strategies](https://github.com/Ashukr321/modern-rendering-strategies) <br> 🔗 [Complete-React-Redux-State-Management](https://github.com/Ashukr321/Complete-React-Redux-State-Management) |
+| **🛡️ Security & Quality** | 🔗 [web-security-essentials](https://github.com/Ashukr321/web-security-essentials) <br> 🔗 [Web-Accessibility-A11y](https://github.com/Ashukr321/Web-Accessibility-A11y) |
+
+</td>
+<td width="50%" valign="top">
+
+| **Category** | **Repository Name & Link** |
+| :--- | :--- |
+| **🏗️ Engineering & Build** | 🔗 [Frontend-build-tools](https://github.com/Ashukr321/Frontend-build-tools) <br> 🔗 [complete-git-and-github](https://github.com/Ashukr321/complete-git-and-github) <br> 🔗 [docker-books](https://github.com/Ashukr321/docker-books) <br> 🔗 [chromeDevTools-expert](https://github.com/Ashukr321/chromeDevTools-are-you-confident-in-your-expertise) |
+| **🏛️ Architecture** | 🔗 [Frontend-System-Design](https://github.com/Ashukr321/Frontend-System-Design) <br> 🔗 [Frontend_Machine_Coding_Task](https://github.com/Ashukr321/Frontend_Machine_Coding_Task) <br> 🔗 [javascript-design-patterns-for-humans](https://github.com/Ashukr321/javascript-design-patterns-for-humans) |
+| **🚀 Advanced** | 🔗 [api-design](https://github.com/Ashukr321/api-design) <br> 🔗 [ai-models-integration](https://github.com/Ashukr321/ai-models-integration) <br> 🔗 [Progressive-Web-Applications-PWAs](https://github.com/Ashukr321/Progressive-Web-Applications-PWAs) <br> 🔗 [frontend-toolkit](https://github.com/Ashukr321/frontend-toolkit) <br> 🔗 [Backend-Toolkit](https://github.com/Ashukr321/Backend-Toolkit) |
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
