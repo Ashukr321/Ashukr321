@@ -113,28 +113,7 @@
 
 I maintain a **structured frontend engineering knowledge system** for long-term learning, revision, and real-world reference.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
 
-| **Category** | **Repository Name & Link** |
-| :--- | :--- |
-| **🌐 Fundamentals** | 🔗 [Complete-Html-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Html-Basic-to-Advanced) <br> 🔗 [Complete-Css-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Css-Basic-to-Advanced) |
-| **⚙️ JS Deep Dive** | 🔗 [complete-javascript-Basic-to-Advanced](https://github.com/Ashukr321/complete-javascript-Basic-to-Advanced) <br> 🔗 [How_Javascript_Work_Internally](https://github.com/Ashukr321/How_Javascript_Work_Internally) <br> 🔗 [asynchronous-javascript-guide](https://github.com/Ashukr321/asynchronous-javascript-guide) <br> 🔗 [javascript-oops-concepts](https://github.com/Ashukr321/javascript-oops-concepts) <br> 🔗 [javascript-output-questions](https://github.com/Ashukr321/javascript-output-questions) |
-| **🛠️ Tooling & Ops** | 🔗 [chromeDevTools-are-you-confident-in-your-expertise](https://github.com/Ashukr321/chromeDevTools-are-you-confident-in-your-expertise) <br> 🔗 [complete-git-and-github](https://github.com/Ashukr321/complete-git-and-github) <br> 🔗 [docker-books](https://github.com/Ashukr321/docker-books) |
-
-</td>
-<td width="50%" valign="top">
-
-| **Category** | **Repository Name & Link** |
-| :--- | :--- |
-| **⚛️ React & State** | 🔗 [optimize-react-re-renders](https://github.com/Ashukr321/optimize-react-re-renders) <br> 🔗 [modern-rendering-strategies](https://github.com/Ashukr321/modern-rendering-strategies) <br> 🔗 [Complete-React-Redux-State-Management](https://github.com/Ashukr321/Complete-React-Redux-State-Management) |
-| **🏗️ Architecture** | 🔗 [Frontend-System-Design](https://github.com/Ashukr321/Frontend-System-Design) <br> 🔗 [Frontend_Machine_Coding_Task](https://github.com/Ashukr321/Frontend_Machine_Coding_Task) <br> 🔗 [javascript-design-patterns-for-humans](https://github.com/Ashukr321/javascript-design-patterns-for-humans) |
-| **🚀 Advanced** | 🔗 [api-design](https://github.com/Ashukr321/api-design) <br> 🔗 [ai-models-integration](https://github.com/Ashukr321/ai-models-integration) <br> 🔗 [frontend-toolkit](https://github.com/Ashukr321/frontend-toolkit) <br> 🔗 [Backend-Toolkit](https://github.com/Ashukr321/Backend-Toolkit) <br> 🔗 [Progressive-Web-Applications-PWAs](https://github.com/Ashukr321/Progressive-Web-Applications-PWAs) <br> 🔗 [Web-Accessibility-A11y](https://github.com/Ashukr321/Web-Accessibility-A11y) | 
-
-</td>
-</tr>
-</table>
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
