@@ -150,42 +150,14 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 
 I specialize in building scalable frontend architectures with the **MERN Stack**, focusing on performance, security, and clean system design.
 
-<table width="100%">
-  <tr>
-    <th width="25%" align="left">⚛️ Core Frontend</th>
-    <th width="25%" align="left">🟢 Backend & DB</th>
-    <th width="25%" align="left">🐳 DevOps & Tooling</th>
-    <th width="25%" align="left">📦 Build & Runtime</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      • JavaScript (ES6+)<br>
-      • React / Next.js<br>
-      • Redux Toolkit<br>
-      • TypeScript<br>
-      • Shadcn UI / Chakra UI<br>
-      • Tailwind / MUI
-    </td>
-    <td valign="top">
-      • Node.js / Express<br>
-      • MongoDB / MySQL<br>
-      • RBAC / JWT Auth<br>
-      • REST API Design
-    </td>
-    <td valign="top">
-      • Docker<br>
-      • GitHub Actions<br>
-      • Vercel / AWS<br>
-      • Git / Postman
-    </td>
-    <td valign="top">
-      • Webpack / Vite<br>
-      • npm / pnpm / Yarn<br>
-      • Jira / Agile<br>
-      • Chrome DevTools
-    </td>
-  </tr>
-</table>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **⚛️ Core Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,ts,tailwind,mui,html,css" /></a> |
+| **🟢 Backend & DB** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase" /></a> |
+| **🐳 DevOps & Tooling** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,aws,git,postman,linux" /></a> |
+| **📦 Build & Runtime** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=webpack,vite,npm,pnpm,yarn,jest" /></a> |
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
