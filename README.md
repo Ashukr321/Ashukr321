@@ -150,61 +150,60 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 
 I specialize in building scalable frontend architectures with the **MERN Stack**, focusing on performance, security, and clean system design.
 
-<table width="100%">
+<table style="width: 100%; table-layout: fixed;">
   <thead>
     <tr>
-      <th width="25%" align="left">Category</th>
-      <th width="75%" align="left">Tools & Technologies</th>
+      <th style="width: 20%; text-align: left;">Category</th>
+      <th style="width: 80%; text-align: left;">Tools & Technologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td valign="top"><strong>⚛️ Core Frontend</strong></td>
       <td>
-        <a href="https://javascript.info" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
-        <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
-        <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
-        <a href="https://redux-toolkit.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=redux" /></a>
-        <a href="https://typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
-        <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-        <a href="https://mui.com" target="_blank"><img src="https://skillicons.dev/icons?i=mui" /></a>
+        <a href="https://javascript.info"><img src="https://skillicons.dev/icons?i=js" width="40" /></a>
+        <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="40" /></a>
+        <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" width="40" /></a>
+        <a href="https://redux-toolkit.js.org"><img src="https://skillicons.dev/icons?i=redux" width="40" /></a>
+        <a href="https://typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="40" /></a>
+        <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" width="40" /></a>
+        <a href="https://mui.com"><img src="https://skillicons.dev/icons?i=mui" width="40" /></a>
       </td>
     </tr>
     <tr>
       <td valign="top"><strong>🟢 Backend & DB</strong></td>
       <td>
-        <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-        <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a>
-        <a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-        <a href="https://mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-        <a href="https://supabase.com" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" /></a>
+        <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="40" /></a>
+        <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="40" /></a>
+        <a href="https://mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="40" /></a>
+        <a href="https://mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="40" /></a>
+        <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase" width="40" /></a>
       </td>
     </tr>
     <tr>
       <td valign="top"><strong>🐳 DevOps & Tooling</strong></td>
       <td>
-        <a href="https://docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
-        <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
-        <a href="https://vercel.com" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-        <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
-        <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-        <a href="https://postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
+        <a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker" width="40" /></a>
+        <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="40" /></a>
+        <a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
+        <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" width="40" /></a>
+        <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="40" /></a>
+        <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" width="40" /></a>
       </td>
     </tr>
     <tr>
       <td valign="top"><strong>📦 Build & Runtime</strong></td>
       <td>
-        <a href="https://webpack.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=webpack" /></a>
-        <a href="https://vitejs.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite" /></a>
-        <a href="https://npmjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=npm" /></a>
-        <a href="https://pnpm.io" target="_blank"><img src="https://skillicons.dev/icons?i=pnpm" /></a>
-        <a href="https://jestjs.io" target="_blank"><img src="https://skillicons.dev/icons?i=jest" /></a>
+        <a href="https://webpack.js.org"><img src="https://skillicons.dev/icons?i=webpack" width="40" /></a>
+        <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" width="40" /></a>
+        <a href="https://npmjs.com"><img src="https://skillicons.dev/icons?i=npm" width="40" /></a>
+        <a href="https://pnpm.io"><img src="https://skillicons.dev/icons?i=pnpm" width="40" /></a>
+        <a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest" width="40" /></a>
       </td>
     </tr>
   </tbody>
 </table>
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
