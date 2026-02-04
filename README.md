@@ -150,6 +150,19 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 
 <table align="left" width="100%" style="width: 100%; table-layout: fixed;">
   <tr>
+     <td align="center" width="14%">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML5" />
+  </a>
+  <br />HTML5
+</td>
+
+<td align="center" width="14%">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS3" />
+  </a>
+  <br />CSS3
+</td>
     <td align="center" width="14%">
       <a href="https://javascript.info" target="_blank">
         <img src="https://skillicons.dev/icons?i=js" width="40" alt="JS" />
@@ -192,6 +205,14 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
       </a>
       <br />MUI
     </td>
+ 
+
+<td align="center" width="14%">
+  <a href="https://sass-lang.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sass" width="40" alt="SCSS" />
+  </a>
+  <br />SCSS
+</td>
   </tr>
 
   <tr>
