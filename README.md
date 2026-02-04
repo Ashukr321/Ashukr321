@@ -146,64 +146,144 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
-## 🛠️ Tech Stack & Tooling
+<h2 align="left">🛠️ Tech Stack & Tooling</h2>
 
-I specialize in building scalable frontend architectures with the **MERN Stack**, focusing on performance, security, and clean system design.
+<table align="left" width="100%" style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td align="center" width="14%">
+      <a href="https://javascript.info" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" width="40" alt="JS" />
+      </a>
+      <br />JavaScript
+    </td>
+    <td align="center" width="14%">
+      <a href="https://react.dev" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" />
+      </a>
+      <br />React
+    </td>
+    <td align="center" width="14%">
+      <a href="https://nextjs.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" />
+      </a>
+      <br />Next.js
+    </td>
+    <td align="center" width="14%">
+      <a href="https://www.typescriptlang.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TS" />
+      </a>
+      <br />TypeScript
+    </td>
+    <td align="center" width="14%">
+      <a href="https://redux-toolkit.js.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux" />
+      </a>
+      <br />Redux
+    </td>
+    <td align="center" width="14%">
+      <a href="https://tailwindcss.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind" />
+      </a>
+      <br />Tailwind
+    </td>
+    <td align="center" width="14%">
+      <a href="https://mui.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mui" width="40" alt="MUI" />
+      </a>
+      <br />MUI
+    </td>
+  </tr>
 
-<table style="width: 100%; table-layout: fixed;">
-  <thead>
-    <tr>
-      <th style="width: 20%; text-align: left;">Category</th>
-      <th style="width: 80%; text-align: left;">Tools & Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top"><strong>⚛️ Core Frontend</strong></td>
-      <td>
-        <a href="https://javascript.info"><img src="https://skillicons.dev/icons?i=js" width="40" /></a>
-        <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="40" /></a>
-        <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" width="40" /></a>
-        <a href="https://redux-toolkit.js.org"><img src="https://skillicons.dev/icons?i=redux" width="40" /></a>
-        <a href="https://typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="40" /></a>
-        <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" width="40" /></a>
-        <a href="https://mui.com"><img src="https://skillicons.dev/icons?i=mui" width="40" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>🟢 Backend & DB</strong></td>
-      <td>
-        <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="40" /></a>
-        <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="40" /></a>
-        <a href="https://mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="40" /></a>
-        <a href="https://mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="40" /></a>
-        <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase" width="40" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>🐳 DevOps & Tooling</strong></td>
-      <td>
-        <a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker" width="40" /></a>
-        <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="40" /></a>
-        <a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="40" /></a>
-        <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" width="40" /></a>
-        <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="40" /></a>
-        <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" width="40" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>📦 Build & Runtime</strong></td>
-      <td>
-        <a href="https://webpack.js.org"><img src="https://skillicons.dev/icons?i=webpack" width="40" /></a>
-        <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" width="40" /></a>
-        <a href="https://npmjs.com"><img src="https://skillicons.dev/icons?i=npm" width="40" /></a>
-        <a href="https://pnpm.io"><img src="https://skillicons.dev/icons?i=pnpm" width="40" /></a>
-        <a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest" width="40" /></a>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="center">
+      <a href="https://nodejs.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" />
+      </a>
+      <br />Node.js
+    </td>
+    <td align="center">
+      <a href="https://expressjs.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" />
+      </a>
+      <br />Express
+    </td>
+    <td align="center">
+      <a href="https://www.mongodb.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" />
+      </a>
+      <br />MongoDB
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" />
+      </a>
+      <br />MySQL
+    </td>
+    <td align="center">
+      <a href="https://supabase.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=supabase" width="40" alt="Supabase" />
+      </a>
+      <br />Supabase
+    </td>
+    <td align="center">
+      <a href="https://firebase.google.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=firebase" width="40" alt="Firebase" />
+      </a>
+      <br />Firebase
+    </td>
+    <td align="center">
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="Postgres" />
+      </a>
+      <br />Postgres
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://www.docker.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" />
+      </a>
+      <br />Docker
+    </td>
+    <td align="center">
+      <a href="https://github.com/features/actions" target="_blank">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="Actions" />
+      </a>
+      <br />GH Actions
+    </td>
+    <td align="center">
+      <a href="https://vercel.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" />
+      </a>
+      <br />Vercel
+    </td>
+    <td align="center">
+      <a href="https://aws.amazon.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" />
+      </a>
+      <br />AWS
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" />
+      </a>
+      <br />Git
+    </td>
+    <td align="center">
+      <a href="https://vitejs.dev" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vite" width="40" alt="Vite" />
+      </a>
+      <br />Vite
+    </td>
+    <td align="center">
+      <a href="https://pnpm.io" target="_blank">
+        <img src="https://skillicons.dev/icons?i=pnpm" width="40" alt="pnpm" />
+      </a>
+      <br />pnpm
+    </td>
+  </tr>
 </table>
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
