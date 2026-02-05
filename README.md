@@ -309,6 +309,19 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
       </a>
       <br />pnpm
     </td>
+    <td align="center" width="14%">
+  <a href="https://www.postman.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" />
+  </a>
+  <br />Postman
+</td>
+
+<td align="center" width="14%">
+  <a href="https://hoppscotch.io" target="_blank">
+    <img src="https://cdn.simpleicons.org/hoppscotch/02AD86" width="40" alt="Hoppscotch" />
+  </a>
+  <br />Hoppscotch
+</td>
   </tr>
 </table>
 
