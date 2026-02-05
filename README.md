@@ -205,7 +205,13 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
       </a>
       <br />MUI
     </td>
- 
+
+<td align="center" width="14%">
+  <a href="https://ant.design" target="_blank">
+    <img src="https://cdn.simpleicons.org/antdesign/1890FF" width="40" alt="Ant Design" />
+  </a>
+  <br />Ant Design
+</td>
 
 <td align="center" width="14%">
   <a href="https://sass-lang.com" target="_blank">
