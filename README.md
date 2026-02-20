@@ -1,7 +1,6 @@
 <div align="center">
   <img height="360" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" />
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0984e3&height=160&section=header&text=Ashutosh%20Kumar&desc=Software%20Development%20Engineer%20@%20CodeBucket%20&fontSize=40&fontColor=ffffff&descSize=18&descAlignY=62&fontAlignY=38&animation=twinkling" width="100%"/> 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+I+@CodeBucket;Frontend+Architect+%7C+System+Design;Exploring+the+Future+of+Web+AI;Tech+Bibliophile+%26+Open+Source+Contributor;Building+Scalable+Digital+Ecosystems" />
