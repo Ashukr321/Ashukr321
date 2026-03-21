@@ -55,7 +55,7 @@
     <td width="40%" valign="top">
       <strong>🎓 Education</strong>
       <ul>
-        <li><strong>MCA (Pursuing)</strong> <br> Amity University Online (Expected 2027)</li>
+        <li><strong>MCA (8.8 SGPA)</strong> <br> Amity University Online (Expected 2027)</li>
         <li><strong>BCA</strong> (CGPA: 8.75) <br> Amity University Patna (2025)</li>
       </ul>
       <strong>🏆 Achievements</strong>
