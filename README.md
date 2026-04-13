@@ -1,4 +1,4 @@
-<div align="center"> '
+<div align="center"> 
   
   <img height="360" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" />
 </div>
