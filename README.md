@@ -8,7 +8,6 @@
 </p>
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashukr321&label=Profile%20Views&color=0e75b6" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ashukr321?label=Followers&style=flat&color=2ea44f" alt="Followers" />
