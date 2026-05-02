@@ -172,6 +172,11 @@ I maintain a <b>structured backend engineering knowledge system</b> for long-ter
             🔗 <a href="https://github.com/Ashukr321/Complete-Mongodb-Basic-to-Advanced">
            Complete-Mongodb-Basic-to-Advanced</a>
           </td>
+     <td>
+            🔗 <a href="https://github.com/Ashukr321/Complete-Mysql-Basic-to-Advanced">
+           Complete-Mysql-Basic-to-Advanced</a>
+          </td>
+     <!--  -->
         </tr>
 
   <tr>
