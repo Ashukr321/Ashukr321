@@ -166,7 +166,7 @@ I maintain a <b>structured backend engineering knowledge system</b> for long-ter
 | **🏗️ Architecture** | 🔗 [backend-system-design](https://github.com/Ashukr321/backend-system-design) |
 | **🚀 External APIs & Services** | 🔗 [nodejs-third-party-services-integration](https://github.com/Ashukr321/nodejs-third-party-services-integration) |
 | **🔐 Security & Auth** | 🔗 [backend-security-best-practices](https://github.com/Ashukr321/backend-security-best-practices) |
-| **⚡ Performance & Scaling** | 🔗 [backend-system-design](https://github.com/Ashukr321/backend-system-design) |
+
 
 </td>
 </tr>
