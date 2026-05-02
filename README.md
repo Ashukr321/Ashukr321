@@ -140,8 +140,6 @@ I maintain a **structured frontend engineering knowledge system** for long-term 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
-
-
 <h2>🧠 Backend Engineering Knowledge Base</h2>
 
 <p>
@@ -149,100 +147,31 @@ I maintain a <b>structured backend engineering knowledge system</b> for long-ter
 </p>
 
 <table width="100%">
-  <tr>
-
- <td width="50%" valign="top">
-      <table>
-        <tr>
-          <th align="left">📚 Category</th>
-          <th align="left">Repository Name & Link</th>
-        </tr>
-
-   <tr>
-          <td><b>Fundamentals</b></td>
-          <td>
-            🔗 <a href="https://github.com/Ashukr321/Complete-Node-js-Basic-To-Advanced">
-            Node.js Basics to Advanced</a>
-          </td>
-        </tr>
-
-   <tr>
-          <td><b>Database</b></td>
-          <td>
-            🔗 <a href="https://github.com/Ashukr321/Complete-Mongodb-Basic-to-Advanced">
-           Complete-Mongodb-Basic-to-Advanced</a>
-          </td>
-     <td>
-            🔗 <a href="https://github.com/Ashukr321/Complete-Mysql-Basic-to-Advanced">
-           Complete-Mysql-Basic-to-Advanced</a>
-          </td>
-     <!--  -->
-        </tr>
-
-  <tr>
-          <td><b>API Design</b></td>
-          <td>
-            🔗 <a href="https://github.com/Ashukr321/backend-system-design">
-            Backend API & System Design</a>
-          </td>
-        </tr>
-
-   <tr>
-          <td><b>Node Libraries & Frameworks</b></td>
-          <td>
-            🔗 <a href="https://github.com/Ashukr321/Complete_Nest_Js_2k25_Basic_To_Advanced">
-            NestJS Framework (Advanced Backend)</a>
-          </td>
-        </tr>
-
-  </table>
-  </td>
-
-<!-- RIGHT SIDE (Engineering Depth) -->
+<tr>
 <td width="50%" valign="top">
-      <table>
-        <tr>
-          <th align="left">⚙️ Category</th>
-          <th align="left">Repository Name & Link</th>
-        </tr>
 
-  <tr>
-          <td>🏗️ Architecture</td>
-          <td>
-            🔗 <a href="https://github.com/Ashukr321/backend-system-design">
-            backend-system-design</a>
-          </td>
-        </tr>
+| **Category** | **Repository Name & Link** |
+| :--- | :--- |
+| **🌐 Fundamentals** | 🔗 [Complete-Node-js-Basic-To-Advanced](https://github.com/Ashukr321/Complete-Node-js-Basic-To-Advanced) |
+| **🗄️ Database** | 🔗 [Complete-Mongodb-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Mongodb-Basic-to-Advanced) <br> 🔗 [Complete-Mysql-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Mysql-Basic-to-Advanced) |
+| **🔗 API Design** | 🔗 [backend-system-design](https://github.com/Ashukr321/backend-system-design) |
+| **⚙️ Node Libraries & Frameworks** | 🔗 [Complete_Nest_Js_2k25_Basic_To_Advanced](https://github.com/Ashukr321/Complete_Nest_Js_2k25_Basic_To_Advanced) |
 
-  <tr>
-          <td>🚀 Advanced Backend</td>
-          <td>
-            🔗 <a href="https://github.com/Ashukr321/Complete_Nest_Js_2k25_Basic_To_Advanced">
-            Complete_Nest_Js_2k25_Basic_To_Advanced</a>
-          </td>
-        </tr>
+</td>
 
-  <tr>
-          <td>🔗 API Design</td>
-          <td>
-            🔗 <a href="https://github.com/Ashukr321/backend-system-design">
-            backend-system-design</a>
-          </td>
-        </tr>
+<td width="50%" valign="top">
 
-  <tr>
-          <td>🛡️ Security & Best Practices</td>
-          <td>
-            🔗 <a href="https://github.com/Ashukr321/Complete-Node-js-Basic-To-Advanced">
-            Complete-Node-js-Basic-To-Advanced</a>
-          </td>
-        </tr>
+| **Category** | **Repository Name & Link** |
+| :--- | :--- |
+| **🏗️ Architecture** | 🔗 [backend-system-design](https://github.com/Ashukr321/backend-system-design) |
+| **🚀 Advanced Backend** | 🔗 [Complete_Nest_Js_2k25_Basic_To_Advanced](https://github.com/Ashukr321/Complete_Nest_Js_2k25_Basic_To_Advanced) |
+| **🔐 Security & Auth** | 🔗 [Complete-Node-js-Basic-To-Advanced](https://github.com/Ashukr321/Complete-Node-js-Basic-To-Advanced) |
+| **⚡ Performance & Scaling** | 🔗 [backend-system-design](https://github.com/Ashukr321/backend-system-design) |
 
-  </table>
-  </td>
-
-  </tr>
+</td>
+</tr>
 </table>
+
 
 
 ## 💼 Work Experience
