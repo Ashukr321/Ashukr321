@@ -159,7 +159,7 @@ I maintain a <b>structured backend engineering knowledge system</b> for long-ter
         </tr>
 
    <tr>
-          <td><b>1️⃣ Fundamentals</b></td>
+          <td><b>Fundamentals</b></td>
           <td>
             🔗 <a href="https://github.com/Ashukr321/Complete-Node-js-Basic-To-Advanced">
             Node.js Basics to Advanced</a>
@@ -167,7 +167,7 @@ I maintain a <b>structured backend engineering knowledge system</b> for long-ter
         </tr>
 
    <tr>
-          <td><b>2️⃣ Database</b></td>
+          <td><b>Database</b></td>
           <td>
             🔗 <a href="https://github.com/Ashukr321/Complete-Mongodb-Basic-to-Advanced">
             MongoDB Complete Guide</a>
@@ -175,7 +175,7 @@ I maintain a <b>structured backend engineering knowledge system</b> for long-ter
         </tr>
 
   <tr>
-          <td><b>3️⃣ API Design</b></td>
+          <td><b>API Design</b></td>
           <td>
             🔗 <a href="https://github.com/Ashukr321/backend-system-design">
             Backend API & System Design</a>
@@ -183,7 +183,7 @@ I maintain a <b>structured backend engineering knowledge system</b> for long-ter
         </tr>
 
    <tr>
-          <td><b>4️⃣ Node Libraries & Frameworks</b></td>
+          <td><b>Node Libraries & Frameworks</b></td>
           <td>
             🔗 <a href="https://github.com/Ashukr321/Complete_Nest_Js_2k25_Basic_To_Advanced">
             NestJS Framework (Advanced Backend)</a>
