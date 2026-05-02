@@ -164,7 +164,7 @@ I maintain a <b>structured backend engineering knowledge system</b> for long-ter
 | **Category** | **Repository Name & Link** |
 | :--- | :--- |
 | **🏗️ Architecture** | 🔗 [backend-system-design](https://github.com/Ashukr321/backend-system-design) |
-| **🚀 Advanced Backend** | 🔗 [Complete_Nest_Js_2k25_Basic_To_Advanced](https://github.com/Ashukr321/Complete_Nest_Js_2k25_Basic_To_Advanced) |
+| **🚀 External APIs & Services** | 🔗 [nodejs-third-party-services-integration](https://github.com/Ashukr321/nodejs-third-party-services-integration) |
 | **🔐 Security & Auth** | 🔗 [Complete-Node-js-Basic-To-Advanced](https://github.com/Ashukr321/Complete-Node-js-Basic-To-Advanced) |
 | **⚡ Performance & Scaling** | 🔗 [backend-system-design](https://github.com/Ashukr321/backend-system-design) |
 
