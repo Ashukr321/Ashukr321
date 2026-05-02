@@ -170,7 +170,7 @@ I maintain a <b>structured backend engineering knowledge system</b> for long-ter
           <td><b>Database</b></td>
           <td>
             🔗 <a href="https://github.com/Ashukr321/Complete-Mongodb-Basic-to-Advanced">
-            MongoDB Complete Guide</a>
+           Complete-Mongodb-Basic-to-Advanced</a>
           </td>
         </tr>
 
