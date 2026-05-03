@@ -199,7 +199,7 @@ I maintain a <b>structured DevOps engineering knowledge system</b> for learning 
 | **☸️ Container Orchestration** | 🔗 [Complete-Kubernetes-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Kubernetes-Basic-to-Advanced) |
 | **🚀 CI/CD Pipelines** | 🔗 [CI-CD-Pipelines-Nodejs-Projects](https://github.com/Ashukr321/CI-CD-Pipelines-Nodejs-Projects) |
 | **🌍 Web Servers & Reverse Proxy** | 🔗 [Nginx-Complete-Guide](https://github.com/Ashukr321/Nginx-Complete-Guide) |
-| **🖥️ Linux & Server Management** | 🔗 Linux-for-Developers-and-DevOps |
+| **🖥️ Linux & Server Management** | 🔗 [Linux-for-Developers-and-DevOps](https://github.com/Ashukr321/Linux-for-Developers-and-DevOps) |
 | **🔐 DevOps Security (DevSecOps)** | 🔗 DevOps-Security-Best-Practices |
 
 </td>
