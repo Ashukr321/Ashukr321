@@ -201,7 +201,7 @@ I maintain a <b>structured DevOps engineering knowledge system</b> for learning 
 | **🌍 Web Servers & Reverse Proxy** | 🔗 [Nginx-Complete-Guide](https://github.com/Ashukr321/Nginx-Complete-Guide) |
 | **🖥️ Linux & Server Management** | 🔗 [Linux-for-Developers-and-DevOps](https://github.com/Ashukr321/Linux-for-Developers-and-DevOps) |
 | **🔐 DevOps Security (DevSecOps)** | 🔗 [DevOps-Security-Best-Practices](https://github.com/Ashukr321/DevOps-Security-Best-Practices) |
-| **📄 mastering-yaml** | 🔗 [DevOps-YAML-Configs](https://github.com/Ashukr321/mastering-yaml) |
+| **📄 mastering-yaml** | 🔗 [mastering-yaml](https://github.com/Ashukr321/mastering-yaml) |
 
 </td>
 
