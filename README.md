@@ -74,6 +74,14 @@
   </tr>
 </table>
 
+## 💼 Work Experience
+
+| **Company & Role** | **Core Projects** | **Key Contributions & Tech Stack** | **Links** |
+| :--- | :--- | :--- | :--- |
+| **CodeBucket** <br> 🚀 SDE-I <br> 🗓️ *Nov 2025 - Present* | **Gyandeep (RTE Bihar)** & **BSRTC HRMS** | • Leading development of the **Gyandeep RTE portal** to digitize the Right to Education process, replacing manual registration with a digital ecosystem. <br> • Built complex, multi-step modules for **School Updates & Student Registration** using optimized state management. <br> • Developed **interactive dashboards** and MIS reporting tools with advanced search and real-time monitoring. <br> • Integrated secure API-driven workflows and **RBAC** for sensitive enrollment data. <br> 🛠️ *React.js, Redux Toolkit, Tailwind CSS, SASS, Jira* | [🏢 Company](https://codebuckets.in/) <br> [🔗 Project](https://gyandeep-rte.bihar.gov.in/) |
+| **Codesoar.io** <br> 🎨 Frontend Intern <br> 🗓️ *May 2025 - June 2025* | **Tutor Management System** | • Built a scalable management system using **Next.js** with **SSR** and **ISR** for lightning-fast load times. <br> • Integrated RESTful APIs and implemented secure **Role-Based Authentication (JWT)**. <br> • Focused on type-safety and responsive UI architecture. <br> 🛠️ *Next.js, TypeScript, Tailwind CSS, Context API, Vercel* | [🏢 Company](https://codesoar.io/) |
+| **TicketBuddy.ai** <br> 👨‍💻 MERN Intern <br> 🗓️ *United Kingdom* | **AI Mailing & Monitoring** | • Developed automated mailing and monitoring dashboards using **Node.js REST APIs**. <br> • Implemented **caching layers** and complex client state management using **Redux Toolkit**. <br> • Built responsive UI components with strict **Formik & Yup** validation. <br> • Resolved critical cross-browser compatibility issues to ensure a seamless UX. <br> 🛠️ *MongoDB, Express, React, Node.js, TypeScript* | [🏢 Company](https://ticketbuddy.ai/) |
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
@@ -174,13 +182,6 @@ I maintain a <b>structured backend engineering knowledge system</b> for long-ter
 
 
 
-## 💼 Work Experience
-
-| **Company & Role** | **Core Projects** | **Key Contributions & Tech Stack** | **Links** |
-| :--- | :--- | :--- | :--- |
-| **CodeBucket** <br> 🚀 SDE-I <br> 🗓️ *Nov 2025 - Present* | **Gyandeep (RTE Bihar)** & **BSRTC HRMS** | • Leading development of the **Gyandeep RTE portal** to digitize the Right to Education process, replacing manual registration with a digital ecosystem. <br> • Built complex, multi-step modules for **School Updates & Student Registration** using optimized state management. <br> • Developed **interactive dashboards** and MIS reporting tools with advanced search and real-time monitoring. <br> • Integrated secure API-driven workflows and **RBAC** for sensitive enrollment data. <br> 🛠️ *React.js, Redux Toolkit, Tailwind CSS, SASS, Jira* | [🏢 Company](https://codebuckets.in/) <br> [🔗 Project](https://gyandeep-rte.bihar.gov.in/) |
-| **Codesoar.io** <br> 🎨 Frontend Intern <br> 🗓️ *May 2025 - June 2025* | **Tutor Management System** | • Built a scalable management system using **Next.js** with **SSR** and **ISR** for lightning-fast load times. <br> • Integrated RESTful APIs and implemented secure **Role-Based Authentication (JWT)**. <br> • Focused on type-safety and responsive UI architecture. <br> 🛠️ *Next.js, TypeScript, Tailwind CSS, Context API, Vercel* | [🏢 Company](https://codesoar.io/) |
-| **TicketBuddy.ai** <br> 👨‍💻 MERN Intern <br> 🗓️ *United Kingdom* | **AI Mailing & Monitoring** | • Developed automated mailing and monitoring dashboards using **Node.js REST APIs**. <br> • Implemented **caching layers** and complex client state management using **Redux Toolkit**. <br> • Built responsive UI components with strict **Formik & Yup** validation. <br> • Resolved critical cross-browser compatibility issues to ensure a seamless UX. <br> 🛠️ *MongoDB, Express, React, Node.js, TypeScript* | [🏢 Company](https://ticketbuddy.ai/) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
