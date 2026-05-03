@@ -179,7 +179,46 @@ I maintain a <b>structured backend engineering knowledge system</b> for long-ter
 </td>
 </tr>
 </table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
+
+<h2>⚙️ DevOps Engineering Knowledge Base</h2>
+
+<p>
+I maintain a <b>structured DevOps engineering knowledge system</b> for learning deployment, CI/CD, infrastructure, monitoring, and production-grade system management.
+</p>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+| **Category** | **Repository Name & Link** |
+| :--- | :--- |
+| **🌐 DevOps Fundamentals** | 🔗 DevOps-Fundamentals-Basic-to-Advanced |
+| **🐳 Containerization** | 🔗 Complete-Docker-Basic-to-Advanced |
+| **☸️ Container Orchestration** | 🔗 Complete-Kubernetes-Basic-to-Advanced |
+| **🚀 CI/CD Pipelines** | 🔗 CI-CD-Pipelines-Nodejs-Projects |
+| **🌍 Web Servers & Reverse Proxy** | 🔗 Nginx-Complete-Guide |
+| **🖥️ Linux & Server Management** | 🔗 Linux-for-Developers-and-DevOps |
+| **🔐 DevOps Security (DevSecOps)** | 🔗 DevOps-Security-Best-Practices |
+
+</td>
+
+<td width="50%" valign="top">
+
+| **Category** | **Repository Name & Link** |
+| :--- | :--- |
+| **☁️ Cloud Platforms** | 🔗 Cloud-Computing-AWS-Azure-GCP-Basics |
+| **📦 Infrastructure as Code (IaC)** | 🔗 Terraform-Basic-to-Advanced |
+| **📊 Monitoring & Logging** | 🔗 Monitoring-Logging-Prometheus-Grafana |
+| **⚡ Performance & Scaling** | 🔗 System-Scaling-and-Load-Balancing |
+| **📡 Networking & DNS** | 🔗 Networking-DNS-SSL-DevOps |
+| **🔄 Deployment Strategies** | 🔗 Deployment-Strategies-BlueGreen-Canary |
+| **📁 VPS & Production Deployment** | 🔗 VPS-Deployment-Nodejs-Docker-CI-CD |
+
+</td>
+</tr>
+</table>
 
 
 
