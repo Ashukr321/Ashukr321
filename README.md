@@ -212,7 +212,7 @@ I maintain a <b>structured DevOps engineering knowledge system</b> for learning 
 | **☁️ Cloud Platforms** | 🔗 [Cloud-Computing-AWS-Azure-GCP-Basics](https://github.com/Ashukr321/-Cloud-Computing-AWS-Azure-GCP-Basics) |
 | **📦 Infrastructure as Code (IaC)** | 🔗 [Terraform-Basic-to-Advanced](https://github.com/Ashukr321/Terraform-Basic-to-Advanced) |
 | **📊 Monitoring & Logging** | 🔗 [Monitoring-Logging-Prometheus-Grafana](https://github.com/Ashukr321/Monitoring-Logging-Prometheus-Grafana) |
-| **⚡ Performance & Scaling** | 🔗 System-Scaling-and-Load-Balancing |
+| **⚡ Performance & Scaling** | 🔗 [System-Scaling-and-Load-Balancing](https://github.com/Ashukr321/System-Scaling-and-Load-Balancing) |
 | **📡 Networking & DNS** | 🔗 Networking-DNS-SSL-DevOps |
 | **🔄 Deployment Strategies** | 🔗 Deployment-Strategies-BlueGreen-Canary |
 | **📁 VPS & Production Deployment** | 🔗 VPS-Deployment-Nodejs-Docker-CI-CD |
