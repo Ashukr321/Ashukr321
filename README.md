@@ -214,7 +214,7 @@ I maintain a <b>structured DevOps engineering knowledge system</b> for learning 
 | **📊 Monitoring & Logging** | 🔗 [Monitoring-Logging-Prometheus-Grafana](https://github.com/Ashukr321/Monitoring-Logging-Prometheus-Grafana) |
 | **⚡ Performance & Scaling** | 🔗 [System-Scaling-and-Load-Balancing](https://github.com/Ashukr321/System-Scaling-and-Load-Balancing) |
 | **📡 Networking & DNS** | 🔗 [Networking-DNS-SSL-DevOps](https://github.com/Ashukr321/Networking-DNS-SSL-DevOps) |
-| **🔄 Deployment Strategies** | 🔗 Deployment-Strategies-BlueGreen-Canary |
+| **🔄 Deployment Strategies** | 🔗 [Deployment-Strategies-Complete-Guide](https://github.com/Ashukr321/Deployment-Strategies-Complete-Guide)|
 | **📁 VPS & Production Deployment** | 🔗 VPS-Deployment-Nodejs-Docker-CI-CD |
 
 </td>
