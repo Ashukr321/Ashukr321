@@ -225,6 +225,43 @@ I maintain a <b>structured DevOps engineering knowledge system</b> for learning 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
+<h2>🤖 AI Engineering Knowledge Base</h2>
+
+<p>
+I maintain a <b>structured AI engineering knowledge system</b> focused on prompt engineering, AI integrations, LLMs, agents, and real-world AI-powered application development.
+</p>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+| **Category** | **Repository Name & Link** |
+| :--- | :--- |
+| 🧠 AI Fundamentals | 🔗 [AI-Fundamentals-for-Developers](https://github.com/Ashukr321/AI-Fundamentals-for-Developers) |
+| ✍️ Prompt Engineering | 🔗 [Prompt-Engineering-Basic-to-Advanced](https://github.com/Ashukr321/Prompt-Engineering-Basic-to-Advanced) |
+| 🤖 AI Agents | 🔗 [AI-Agents-Architecture-and-Building](https://github.com/Ashukr321/AI-Agents-Architecture-and-Building) |
+| 🔗 AI Integration | 🔗 [AI-Integration-Frontend-Backend](https://github.com/Ashukr321/AI-Integration-Frontend-Backend) |
+| ⚙️ AI Tools & SDKs | 🔗 [AI-Tools-and-SDKs-Guide](https://github.com/Ashukr321/AI-Tools-and-SDKs-Guide) |
+| 🧩 LLM Concepts | 🔗 [LLM-Concepts-and-Working](https://github.com/Ashukr321/LLM-Concepts-and-Working) |
+
+</td>
+
+<td width="50%" valign="top">
+
+| **Category** | **Repository Name & Link** |
+| :--- | :--- |
+| 📡 AI APIs & MCP | 🔗 [AI-APIs-and-MCP-Integration](https://github.com/Ashukr321/AI-APIs-and-MCP-Integration) |
+| 🎯 AI Use Cases | 🔗 [Real-World-AI-UseCases](https://github.com/Ashukr321/Real-World-AI-UseCases) |
+| 🧪 AI Projects | 🔗 [AI-Projects-Production-Ready](https://github.com/Ashukr321/AI-Projects-Production-Ready) |
+| ⚡ AI Optimization | 🔗 [AI-Optimization-and-Cost-Control](https://github.com/Ashukr321/AI-Optimization-and-Cost-Control) |
+| 🔐 AI Security | 🔗 [AI-Security-and-Prompt-Safety](https://github.com/Ashukr321/AI-Security-and-Prompt-Safety) |
+| 📘 AI Notes & Cheatsheets | 🔗 [AI-Notes-and-Cheatsheets](https://github.com/Ashukr321/AI-Notes-and-Cheatsheets) |
+
+</td>
+</tr>
+</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
+
 <h2 align="left">🛠️ Tech Stack & Tooling</h2>
 
 <table align="left" width="100%" style="width: 100%; table-layout: fixed;">
