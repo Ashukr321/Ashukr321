@@ -75,7 +75,6 @@
 </table>
 
 ## 💼 Work Experience
-
 | **Company & Role** | **Core Projects** | **Key Contributions & Tech Stack** | **Links** |
 | :--- | :--- | :--- | :--- |
 | **CodeBucket** <br> 🚀 SDE-I <br> 🗓️ *Nov 2025 - Present* | **Gyandeep (RTE Bihar)** & **BSRTC HRMS** | • Leading development of the **Gyandeep RTE portal** to digitize the Right to Education process, replacing manual registration with a digital ecosystem. <br> • Built complex, multi-step modules for **School Updates & Student Registration** using optimized state management. <br> • Developed **interactive dashboards** and MIS reporting tools with advanced search and real-time monitoring. <br> • Integrated secure API-driven workflows and **RBAC** for sensitive enrollment data. <br> 🛠️ *React.js, Redux Toolkit, Tailwind CSS, SASS, Jira* | [🏢 Company](https://codebuckets.in/) <br> [🔗 Project](https://gyandeep-rte.bihar.gov.in/) |
