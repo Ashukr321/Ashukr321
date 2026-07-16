@@ -261,6 +261,33 @@ I maintain a <b>structured AI engineering knowledge system</b> focused on prompt
 </table>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%"/>
 
+
+<!-- <h2>🚀 Projects, Extensions & NPM Packages</h2>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+| **Category** | **Repository Name & Link** |
+| :--- | :--- |
+| 🎨 Frontend Projects | 🔗 [Frontend-Projects-Showcase](https://github.com/Ashukr321/Frontend-Projects-Showcase) |
+| ⚙️ Backend Projects | 🔗 [Backend-Projects-Showcase](https://github.com/Ashukr321/Backend-Projects-Showcase) |
+| 🌐 Full Stack Projects | 🔗 [FullStack-Projects-Showcase](https://github.com/Ashukr321/FullStack-Projects-Showcase) |
+
+</td>
+<td width="50%" valign="top">
+
+| **Category** | **Repository Name & Link** |
+| :--- | :--- |
+| 🧩 Browser Extensions | 🔗 [Browser-Extensions-Collection](https://github.com/Ashukr321/Browser-Extensions-Collection) |
+| 📦 NPM Packages | 🔗 [NPM-Packages-Published](https://github.com/Ashukr321/NPM-Packages-Published) |
+
+</td>
+</tr>
+</table> -->
+
+
+
+
 <h2 align="left">🛠️ Tech Stack & Tooling</h2>
 
 <table align="left" width="100%" style="width: 100%; table-layout: fixed;">
