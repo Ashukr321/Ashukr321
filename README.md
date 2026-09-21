@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+I+%40CodeBucket;Frontend+Architect+%7C+System+Design;Frontend+Instructor;Exploring+the+Future+of+Web+AI;Tech+Bibliophile+%26+Open+Source+Contributor;Building+Scalable+Digital+Eco+systems;1%2B+Year+of+Software+Engineering+Experience" />
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashukr321&label=Profile%20Views&color=0e75b6" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ashukr321?label=Followers&style=flat&color=2ea44f" alt="Followers" />
