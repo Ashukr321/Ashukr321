@@ -32,7 +32,7 @@
   <a href="https://wa.me/917004246315" target="_blank" title="Contact: +91 7004246315">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://devashu.tech" target="_blank">
+  <a href="https://ashukr321-khaki.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
   </a>
   <a href="YOUR_RESUME_URL_HERE" target="_blank">
