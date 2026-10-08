@@ -161,7 +161,7 @@ I maintain a <b>structured backend engineering knowledge system</b> for long-ter
 | **🌐 Fundamentals** | 🔗 [Complete-Node-js-Basic-To-Advanced](https://github.com/Ashukr321/Complete-Node-js-Basic-To-Advanced) |
 | **🗄️ Database** | 🔗 [Complete-Mongodb-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Mongodb-Basic-to-Advanced) <br> 🔗 [Complete-Mysql-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Mysql-Basic-to-Advanced) <br> 🔗 [Complete-Postgress-Sql-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Postgress-Sql-Basic-to-Advanced) <br> 🔗 [Complete-Database-Modeling-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Database-Modeling-Basic-to-Advanced) <br> 🔗[orm-odm-guide](https://github.com/Ashukr321/orm-odm-guide)|
 | **🔗 API Design** | 🔗 [scalable-api-design-nodejs](https://github.com/Ashukr321/scalable-api-design-nodejs) |
-| **⚙️ Node Libraries & Frameworks** | 🔗 [Complete_Nest_Js_2k25_Basic_To_Advanced](https://github.com/Ashukr321/Complete_Nest_Js_2k25_Basic_To_Advanced) <br> 🔗 [Complete-Express-js-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Express-js-Basic-to-Advanced) |
+| **⚙️ Node Libraries & Frameworks** | 🔗 [Complete_Nest_Js_2k25_Basic_To_Advanced](https://github.com/Ashukr321/Complete_Nest_Js_2k25_Basic_To_Advanced) <br> 🔗 [nest-template](https://github.com/Ashukr321/nest-template) <br> 🔗 [Complete-Express-js-Basic-to-Advanced](https://github.com/Ashukr321/Complete-Express-js-Basic-to-Advanced) |
 | **⚙️ Node Esentials Packages** | 🔗 [nodejs-npm-packages-guide](https://github.com/Ashukr321/nodejs-npm-packages-guide)|
 </td>
 
