@@ -43,9 +43,9 @@
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-      <p>
-        I am a <strong>Software Development Engineer (SDE-I)</strong> at <strong>CodeBucket</strong>, specializing in architecting high-performance, scalable frontend systems. I focus on the <strong>React ecosystem</strong>, building the bridge between complex business logic and high-conversion user experiences.
-      </p>
+     <p>
+  I am a <strong>Software Development Engineer (SDE-I)</strong> at <strong>CodeBucket</strong> with <strong>1+ year of experience</strong>, specializing in architecting high-performance, scalable frontend systems. I focus on the <strong>React ecosystem</strong>, building the bridge between complex business logic and high-conversion user experiences.
+</p>
       <p>
         My work is driven by <strong>performance engineering</strong>—from optimizing React rendering cycles to scaling digital government ecosystems like the <strong>Gyandeep RTE portal</strong>. Currently, I am mastering <strong>Frontend System Design</strong> and <strong>Micro-Frontends</strong> to build more resilient web architectures.
       </p>
